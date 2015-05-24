@@ -1,0 +1,2094 @@
+year,continent,"disaster type",occurrence,"Total deaths",Affected,Injured,Homeless,"Total affected","Total damage"
+1900,Africa,Drought,2,22000,0,0,0,0,0
+1900,Americas,Epidemic,2,60,0,0,0,0,0
+1900,Americas,Flood,2,600,0,0,0,0,0
+1900,Americas,Storm,2,12000,0,0,0,0,60000
+1900,Asia,Drought,2,2500000,0,0,0,0,0
+1900,Asia,"Volcanic activity",2,60,0,0,0,0,0
+1901,Africa,Earthquake,2,0,0,0,0,0,0
+1901,Africa,Epidemic,2,400000,0,0,0,0,0
+1901,Asia,Earthquake,2,36,0,0,0,0,0
+1902,Americas,Earthquake,4,4370,0,0,0,0,0
+1902,Americas,"Volcanic activity",8,77130,0,0,0,0,0
+1902,Asia,Storm,2,1200,0,0,0,0,0
+1902,Asia,"Volcanic activity",2,250,0,0,0,0,0
+1902,Europe,Earthquake,2,9124,0,0,0,0,0
+1903,Africa,Drought,2,0,0,0,0,0,0
+1903,Africa,"Volcanic activity",2,34,0,0,0,0,0
+1903,Americas,Flood,4,500,0,0,0,0,960000
+1903,Americas,"Mass movement (dry)",2,152,0,46,0,46,0
+1903,Americas,Storm,4,326,0,0,0,0,0
+1903,Asia,Earthquake,2,12000,0,0,0,0,0
+1904,Americas,Earthquake,2,0,0,0,0,0,0
+1904,Asia,Storm,2,0,0,0,0,0,0
+1905,Americas,"Mass movement (dry)",2,36,0,36,0,36,0
+1905,Asia,Earthquake,2,40000,0,0,0,0,0
+1905,Asia,Storm,2,480,0,0,0,0,0
+1905,Europe,Earthquake,2,5000,0,0,0,0,0
+1906,Africa,Drought,2,0,0,0,0,0,0
+1906,Africa,Earthquake,2,0,0,0,0,0,13500
+1906,Americas,Earthquake,12,46800,0,0,0,0,1248000
+1906,Americas,Storm,4,596,0,0,0,0,0
+1906,Asia,Earthquake,6,17132,0,0,0,0,0
+1906,Asia,Storm,2,20000,0,0,0,0,40000
+1906,Europe,Flood,4,12,0,0,0,0,0
+1906,Europe,"Volcanic activity",2,1400,0,0,0,0,0
+1907,Americas,Earthquake,2,2400,180000,0,0,180000,60000
+1907,Asia,Earthquake,6,24882,0,0,0,0,0
+1907,Asia,Epidemic,2,2600000,0,0,0,0,0
+1907,Europe,Earthquake,2,24000,0,0,0,0,0
+1908,Africa,Earthquake,2,0,0,0,0,0,0
+1908,Americas,"Mass movement (dry)",2,66,0,0,0,0,0
+1908,Europe,Earthquake,4,150000,300000,0,0,300000,232000
+1909,Africa,Earthquake,2,200,0,0,0,0,0
+1909,Americas,Flood,2,144,0,0,0,0,0
+1909,Americas,Landslide,2,106,0,0,0,0,0
+1909,Americas,Storm,6,1082,0,0,0,0,0
+1909,Asia,Earthquake,2,10000,0,0,0,0,0
+1909,Asia,Epidemic,4,3000080,0,0,0,0,0
+1909,Asia,Storm,4,344,0,0,0,0,0
+1909,Asia,"Volcanic activity",2,11000,0,0,0,0,0
+1909,Europe,Earthquake,2,92,0,0,0,0,0
+1910,Africa,Drought,18,170000,64000,0,0,64000,0
+1910,Africa,Earthquake,4,24,0,0,0,0,0
+1910,Americas,Earthquake,2,3500,0,0,0,0,0
+1910,Americas,"Mass movement (dry)",2,124,0,0,0,0,0
+1910,Americas,Storm,2,60,0,0,0,0,0
+1910,Asia,Epidemic,2,120000,0,0,0,0,0
+1910,Asia,Flood,2,2758,0,0,0,0,0
+1911,Americas,Wildfire,2,146,0,0,400,400,0
+1911,Asia,Flood,2,200000,0,0,0,0,0
+1911,Asia,Storm,4,2000,0,0,0,0,40000
+1911,Asia,"Volcanic activity",2,2670,0,398,0,398,0
+1912,Americas,Storm,4,340,0,400,194640,195040,10000
+1912,Asia,Earthquake,2,1846,0,3150,0,3150,0
+1912,Asia,Storm,6,102000,0,0,0,0,60000
+1912,Europe,Earthquake,2,0,0,0,0,0,0
+1913,Africa,Earthquake,4,0,0,0,0,0,0
+1913,Africa,"Insect infestation",2,0,0,0,0,0,0
+1913,Americas,Earthquake,2,300,0,0,0,0,0
+1913,Americas,Storm,2,1464,0,0,0,0,400000
+1913,Europe,Earthquake,2,0,0,0,0,0,0
+1914,Africa,Earthquake,2,0,0,0,0,0,0
+1914,Asia,Earthquake,6,298,0,40,0,40,0
+1914,Asia,"Volcanic activity",2,280,0,0,0,0,40000
+1914,Oceania,Storm,2,0,0,0,0,0,0
+1915,Americas,Earthquake,4,12,0,0,0,0,2000
+1915,Americas,"Mass movement (dry)",2,112,0,44,0,44,0
+1915,Americas,Storm,4,4250,0,0,0,0,120000
+1915,Asia,Flood,2,0,6000000,0,0,6000000,0
+1915,Europe,Earthquake,2,59960,0,0,0,0,120000
+1916,Asia,Storm,2,600,0,0,0,0,0
+1916,Europe,Earthquake,2,0,0,0,0,0,0
+1917,Americas,Earthquake,2,5300,0,0,0,0,0
+1917,Americas,Storm,2,114,0,0,0,0,0
+1917,Asia,Earthquake,4,33600,0,0,0,0,0
+1917,Asia,Flood,2,0,1270000,0,0,1270000,0
+1917,Asia,Storm,2,8000,0,0,0,0,100000
+1917,Europe,Epidemic,2,5000000,0,0,0,0,0
+1918,Americas,Earthquake,4,464,0,0,0,0,58000
+1918,Americas,Epidemic,2,100000,4000000,0,0,4000000,0
+1918,Americas,Storm,2,68,0,0,0,0,0
+1918,Americas,Wildfire,2,2000,0,0,0,0,200000
+1918,Asia,Earthquake,4,20200,0,0,0,0,0
+1918,Asia,Epidemic,2,786000,0,0,0,0,0
+1918,Europe,Earthquake,2,94,0,0,0,0,0
+1918,Oceania,Epidemic,2,13400,0,0,0,0,0
+1919,Americas,Drought,2,0,0,0,0,0,0
+1919,Americas,Epidemic,2,0,0,0,0,0,0
+1919,Americas,Storm,2,1000,0,0,0,0,50000
+1919,Asia,Storm,2,0,0,0,0,0,0
+1919,Asia,"Volcanic activity",2,10000,0,0,0,0,0
+1920,Africa,Drought,2,48000,0,0,0,0,0
+1920,Africa,Earthquake,2,0,0,0,0,0,0
+1920,Americas,Epidemic,2,0,0,0,0,0,0
+1920,Americas,Storm,2,448,0,0,0,0,0
+1920,Asia,Drought,2,1000000,40000000,0,0,40000000,0
+1920,Asia,Earthquake,2,360000,0,0,0,0,0
+1920,Asia,Epidemic,4,5000000,0,0,0,0,0
+1920,Europe,Earthquake,2,0,0,1300,0,1300,0
+1920,Europe,Flood,2,0,0,0,0,0,40000
+1921,Africa,Earthquake,2,0,0,0,0,0,0
+1921,Americas,Epidemic,2,0,0,0,0,0,0
+1921,Europe,Drought,2,2400000,10000000,0,0,10000000,0
+1922,Americas,Earthquake,4,2200,0,0,0,0,0
+1922,Americas,Epidemic,2,0,0,0,0,0,0
+1922,Americas,Wildfire,2,86,0,0,22000,22000,16000
+1922,Asia,Storm,4,200000,0,0,0,0,0
+1922,Europe,Landslide,2,200,0,0,0,0,0
+1923,Africa,Epidemic,2,200000,0,0,0,0,0
+1923,Americas,Epidemic,2,0,0,0,0,0,0
+1923,Americas,Storm,2,8,0,0,2600,2600,0
+1923,Asia,Earthquake,8,304688,200000,207466,0,407466,1200000
+1923,Asia,Landslide,2,400,0,0,0,0,0
+1923,Asia,Storm,8,6224,0,0,50000,50000,20000
+1923,Europe,Earthquake,2,36,0,0,0,0,0
+1923,Europe,Epidemic,2,0,36000000,0,0,36000000,0
+1923,Europe,Storm,2,46,0,0,0,0,0
+1924,Americas,Earthquake,2,80,0,0,0,0,0
+1924,Asia,Earthquake,2,1454,0,0,22500,22500,0
+1924,Asia,Epidemic,2,600000,0,0,0,0,0
+1924,Asia,Storm,4,4484,2000000,0,0,2000000,0
+1925,Americas,Earthquake,2,26,0,0,0,0,16000
+1925,Americas,Storm,2,1478,0,0,0,0,36000
+1925,Asia,Earthquake,2,10000,0,0,0,0,0
+1925,Asia,Storm,2,160,0,0,0,0,0
+1925,Europe,Flood,2,0,0,0,0,0,38000
+1925,Oceania,Storm,2,0,0,0,0,0,0
+1926,Africa,Earthquake,2,24,0,0,0,0,0
+1926,Americas,Landslide,2,200,0,0,0,0,0
+1926,Americas,Storm,8,1736,0,0,0,0,146000
+1926,Asia,Epidemic,2,846000,0,0,0,0,0
+1926,Asia,Flood,2,0,0,0,0,0,0
+1926,Asia,Storm,6,5400,0,0,80000,80000,0
+1926,Asia,"Volcanic activity",2,288,0,0,0,0,0
+1926,Europe,Flood,6,2000,0,0,0,0,62000
+1927,Africa,Earthquake,2,0,0,0,0,0,0
+1927,Africa,Flood,2,6000,0,0,0,0,0
+1927,Americas,Flood,2,492,0,0,0,0,460
+1927,Americas,Storm,2,174,0,0,0,0,44000
+1927,Asia,Earthquake,10,412284,0,100,0,100,160000
+1927,Asia,Storm,6,11370,80000,20,0,80020,0
+1928,Americas,Earthquake,4,494,0,0,0,0,0
+1928,Americas,Storm,10,8272,0,0,0,0,150000
+1928,Asia,Drought,2,6000000,0,0,0,0,0
+1928,Asia,Earthquake,4,356,0,418,0,418,0
+1928,Asia,Flood,2,72,0,0,4000,4000,0
+1928,Europe,Earthquake,6,420,0,0,0,0,0
+1928,Europe,Flood,2,0,12000,0,0,12000,0
+1928,Europe,Storm,4,176,0,0,0,0,0
+1929,Americas,Storm,2,0,0,0,0,0,0
+1929,Americas,"Volcanic activity",2,10000,0,0,0,0,0
+1929,Americas,Wildfire,2,120,0,0,0,0,0
+1929,Asia,Earthquake,2,6600,0,2242,0,2242,0
+1929,Europe,Storm,2,0,0,0,0,0,110000
+1929,Oceania,Earthquake,2,34,0,0,0,0,0
+1930,Africa,"Insect infestation",2,0,0,0,0,0,0
+1930,Americas,Storm,4,8000,12000,12000,0,24000,80000
+1930,Asia,Earthquake,8,6072,0,0,0,0,0
+1930,Asia,"Volcanic activity",2,2738,0,0,0,0,0
+1930,Europe,Earthquake,4,4068,20000,416,0,20416,0
+1930,Europe,Flood,2,0,0,0,0,0,0
+1930,Europe,Storm,4,164,0,0,0,0,0
+1930,Oceania,Earthquake,2,22,0,0,0,0,0
+1931,Americas,Drought,2,0,50000,0,0,50000,0
+1931,Americas,Earthquake,2,2000,0,0,0,0,30000
+1931,Americas,Landslide,2,380,0,0,0,0,0
+1931,Americas,Storm,4,6000,0,0,0,0,15000
+1931,Asia,Flood,2,7400000,0,0,0,0,2800000
+1931,Asia,Storm,2,0,0,0,0,0,0
+1931,Asia,"Volcanic activity",2,2600,0,0,0,0,0
+1931,Europe,Earthquake,2,462,0,1764,0,1764,0
+1931,Oceania,Earthquake,4,612,22000,0,0,22000,50000
+1931,Oceania,Storm,2,400,0,0,0,0,0
+1932,Americas,Epidemic,2,32,0,0,0,0,0
+1932,Americas,Storm,8,6194,0,0,0,0,60000
+1932,Asia,Earthquake,4,140012,0,230,5920,6150,0
+1932,Asia,Storm,2,294,0,0,5000,5000,0
+1933,Americas,Drought,2,0,0,0,0,0,0
+1933,Americas,Earthquake,2,232,0,0,0,0,77000
+1933,Americas,Flood,2,106,0,0,0,0,0
+1933,Americas,Storm,6,126,0,0,0,0,6000
+1933,Asia,Earthquake,6,32128,0,0,0,0,50000
+1933,Asia,Flood,2,36000,0,0,7200000,7200000,0
+1934,Americas,Storm,2,4000,0,0,0,0,0
+1934,Asia,Earthquake,4,30080,0,0,0,0,0
+1934,Asia,Landslide,2,1000,0,0,0,0,0
+1934,Asia,Storm,6,6182,0,0,0,0,100000
+1934,Europe,Earthquake,4,912,0,2378,0,2378,0
+1935,Africa,Epidemic,2,4000,0,0,0,0,0
+1935,Americas,Storm,10,5214,0,1000,0,1000,16000
+1935,Asia,Earthquake,6,132220,0,0,0,0,0
+1935,Asia,Flood,2,284000,20060000,0,0,20060000,0
+1935,Asia,Storm,4,120200,0,0,0,0,0
+1936,Americas,"Extreme temperature ",4,3386,0,0,0,0,0
+1936,Americas,Flood,2,400,0,0,0,0,0
+1936,Americas,Storm,2,910,0,0,0,0,42000
+1936,Asia,Earthquake,4,52,0,40,0,40,0
+1936,Asia,Storm,8,5708,0,0,300000,300000,0
+1936,Europe,Landslide,2,146,0,0,0,0,0
+1937,Americas,Flood,4,496,0,0,0,0,876000
+1937,Americas,"Mass movement (dry)",2,80,0,0,0,0,0
+1937,Asia,Storm,6,22462,0,0,0,0,0
+1937,Oceania,"Volcanic activity",2,1012,15000,0,0,15000,0
+1938,Americas,Landslide,2,400,0,0,0,0,0
+1938,Americas,Storm,2,1200,0,0,0,0,612000
+1938,Asia,Earthquake,4,332,0,1600,9420,11020,0
+1938,Asia,Flood,2,1866,0,0,0,0,0
+1938,Asia,Storm,2,610,0,0,0,0,0
+1938,Oceania,Flood,2,42,0,0,0,0,0
+1939,Africa,Earthquake,2,34,0,0,0,0,0
+1939,Americas,Earthquake,2,60000,0,117000,0,117000,1840000
+1939,Asia,Earthquake,6,66130,0,136,0,136,40000
+1939,Asia,Flood,2,1000000,0,0,0,0,0
+1939,Asia,Storm,2,0,0,0,0,0,0
+1939,Europe,Flood,2,20,0,0,0,0,0
+1939,Oceania,Earthquake,2,24,0,0,0,0,0
+1939,Oceania,Storm,2,6,0,0,0,0,0
+1939,Oceania,Wildfire,2,142,0,0,7800,7800,0
+1940,Africa,Drought,18,40000,0,0,0,0,0
+1940,Africa,Epidemic,2,3000,30000,0,0,30000,0
+1940,Americas,Earthquake,4,516,0,0,0,0,66000
+1940,Americas,Flood,2,250,0,0,4000,4000,0
+1940,Americas,Storm,2,100,0,0,0,0,0
+1940,Asia,Earthquake,2,74,0,0,0,0,0
+1940,Asia,Storm,2,146,0,0,0,0,0
+1940,Europe,Earthquake,2,1960,0,0,0,0,20000
+1940,Oceania,Storm,2,0,0,0,0,0,0
+1941,Americas,Earthquake,2,348,0,0,0,0,0
+1941,Americas,Landslide,2,10000,0,0,0,0,0
+1941,Asia,Earthquake,2,30,0,0,0,0,0
+1941,Asia,Storm,2,10000,0,0,0,0,0
+1941,Oceania,Storm,2,12,0,0,0,0,0
+1942,Americas,Earthquake,4,410,0,32,0,32,56000
+1942,Asia,Drought,2,3000000,0,0,0,0,0
+1942,Asia,Earthquake,6,14060,0,0,0,0,0
+1942,Asia,Storm,4,202000,0,0,0,0,0
+1942,Oceania,Storm,2,0,0,0,0,0,0
+1943,Americas,Earthquake,4,424,0,70,0,70,200000
+1943,Americas,Flood,2,0,0,0,0,0,1800000
+1943,Americas,"Volcanic activity",2,0,6000,0,0,6000,0
+1943,Asia,Drought,2,3800000,0,0,0,0,0
+1943,Asia,Earthquake,6,8240,28000,14192,0,42192,0
+1943,Asia,Flood,2,1980,0,0,0,0,0
+1943,Asia,Storm,4,10000,60000,0,0,60000,0
+1943,Oceania,Storm,2,0,0,0,0,0,0
+1944,Africa,"Insect infestation",2,0,0,0,0,0,0
+1944,Americas,Earthquake,2,20000,240000,70000,0,310000,0
+1944,Americas,Storm,6,844,0,0,4000,4000,200000
+1944,Americas,Wildfire,2,242,0,0,0,0,0
+1944,Asia,Earthquake,6,9968,0,0,0,0,0
+1944,Asia,Storm,4,608,0,0,20000,20000,0
+1944,Europe,"Volcanic activity",2,52,0,0,28000,28000,0
+1944,Oceania,Wildfire,2,98,0,0,4200,4200,0
+1945,Americas,Storm,8,436,0,0,0,0,0
+1945,Asia,Earthquake,4,11922,0,0,0,0,0
+1945,Asia,Storm,6,8394,3763344,0,4000,3767344,800000
+1945,Asia,"Volcanic activity",2,0,0,0,0,0,160000
+1945,Europe,Earthquake,4,0,0,0,0,0,0
+1945,Europe,Epidemic,2,0,208,0,0,208,0
+1946,Africa,Drought,2,60000,0,0,0,0,0
+1946,Africa,Earthquake,2,552,0,0,0,0,0
+1946,Americas,Earthquake,8,3276,0,0,0,0,50000
+1946,Americas,Storm,4,100,0,0,0,0,1000
+1946,Asia,Earthquake,6,6478,0,0,0,0,0
+1946,Asia,Storm,2,520,0,0,0,0,0
+1946,Europe,Storm,2,54,0,0,0,0,0
+1946,Oceania,Storm,2,0,0,0,0,0,0
+1946,Oceania,"Volcanic activity",2,0,5000,0,0,5000,0
+1947,Africa,Epidemic,2,20552,0,0,0,0,0
+1947,Americas,Earthquake,2,466,0,0,0,0,0
+1947,Americas,Storm,8,616,0,0,0,0,200000
+1947,Americas,Wildfire,2,0,0,0,0,0,60000
+1947,Asia,Drought,2,0,0,0,0,0,0
+1947,Asia,Earthquake,2,800,0,0,0,0,0
+1947,Asia,Flood,2,4000,0,0,0,0,0
+1947,Asia,Storm,6,8860,0,0,0,0,0
+1948,Africa,Storm,2,330,0,0,0,0,0
+1948,Americas,Flood,4,510,0,0,0,0,0
+1948,Americas,Storm,8,112,0,600,0,600,36000
+1948,Americas,"Volcanic activity",2,200,0,0,0,0,0
+1948,Asia,Earthquake,8,11236,0,12000,0,12000,2000000
+1948,Asia,Flood,6,1324,0,0,0,0,0
+1948,Asia,Landslide,2,1000,0,0,0,0,0
+1948,Asia,Storm,6,5336,828306,0,0,828306,0
+1948,Europe,Earthquake,2,220000,0,0,0,0,50000
+1948,Europe,Landslide,2,50,0,0,0,0,0
+1948,Europe,Storm,2,160,0,0,0,0,0
+1948,Oceania,Storm,2,4,0,0,0,0,0
+1949,Americas,Earthquake,10,12098,210000,346,0,210346,288400
+1949,Americas,Flood,2,80000,0,0,0,0,30000
+1949,Americas,Storm,6,374,0,0,0,0,0
+1949,Americas,"Volcanic activity",4,4000,0,0,0,0,0
+1949,Asia,Earthquake,2,874,0,710,0,710,0
+1949,Asia,Flood,2,114000,0,0,0,0,0
+1949,Asia,Storm,10,5234,388092,0,0,388092,0
+1949,Europe,Landslide,2,24000,0,0,0,0,0
+1949,Europe,Wildfire,2,160,0,0,0,0,0
+1950,Africa,Epidemic,2,0,144324,0,0,144324,0
+1950,Americas,Earthquake,6,666,0,400,80000,80400,0
+1950,Americas,Flood,6,168,214000,0,0,214000,200000
+1950,Americas,Landslide,2,260,0,0,0,0,0
+1950,Americas,Storm,10,548,0,0,0,0,202000
+1950,Asia,Earthquake,2,3000,0,0,0,0,0
+1950,Asia,Flood,14,7448,20050000,0,0,20050000,0
+1950,Asia,Storm,4,1198,1284234,0,0,1284234,0
+1950,Asia,"Volcanic activity",2,168,0,0,0,0,0
+1951,Africa,Flood,2,262,0,0,0,0,0
+1951,Africa,Storm,2,1000,0,0,0,0,0
+1951,Americas,Earthquake,4,3000,0,0,0,0,46000
+1951,Americas,"Extreme temperature ",4,138,0,0,0,0,200000
+1951,Americas,Flood,2,82,0,0,0,0,2058000
+1951,Americas,Storm,4,408,40000,400,0,40400,112000
+1951,Asia,Earthquake,2,108,0,300,0,300,0
+1951,Asia,Flood,6,10662,637068,0,0,637068,0
+1951,Asia,Storm,12,4110,120000,0,0,120000,0
+1951,Asia,"Volcanic activity",4,3600,0,0,0,0,0
+1951,Europe,Flood,4,326,0,0,347000,347000,600000
+1951,Europe,Landslide,2,184,0,0,0,0,40000
+1951,Oceania,Storm,4,204,0,0,0,0,500
+1951,Oceania,"Volcanic activity",2,6000,0,0,0,0,0
+1952,Africa,Flood,2,50,0,0,0,0,0
+1952,Africa,Storm,2,70,0,0,0,0,0
+1952,Americas,Earthquake,8,44,0,0,0,0,201800
+1952,Americas,Flood,4,280,0,0,0,0,0
+1952,Americas,Storm,4,558,0,0,0,0,0
+1952,Asia,Earthquake,6,220,0,900,0,900,0
+1952,Asia,Storm,10,3880,2000000,904,0,2000904,100000
+1952,Asia,"Volcanic activity",2,58,58,0,0,58,0
+1952,Europe,Earthquake,2,4600,0,0,0,0,0
+1952,Europe,Flood,2,68,0,0,0,0,0
+1952,Europe,Landslide,2,56,0,0,0,0,0
+1952,Europe,Storm,1,4000,0,0,0,0,0
+1952,Oceania,Storm,2,46,0,1600,0,1600,4000
+1953,Americas,Earthquake,6,44,0,110,0,110,1014620
+1953,Americas,Epidemic,2,962,16000,0,0,16000,0
+1953,Americas,Flood,2,142,0,0,0,0,0
+1953,Americas,Storm,12,936,0,0,0,0,104000
+1953,Asia,Earthquake,6,4480,100000,200,0,100200,0
+1953,Asia,"Extreme temperature ",6,1338,0,0,0,0,0
+1953,Asia,Flood,14,9786,3773520,0,0,3773520,0
+1953,Asia,Storm,8,2692,2000000,0,0,2000000,0
+1953,Europe,Earthquake,2,910,0,0,0,0,200000
+1953,Europe,Flood,8,4322,600700,0,8000,608700,600000
+1953,Europe,Storm,2,0,0,0,0,0,50000
+1953,Oceania,"Volcanic activity",2,300,0,0,0,0,0
+1954,Africa,Earthquake,2,2500,0,0,258500,258500,12000
+1954,Africa,Flood,4,60,0,0,0,0,0
+1954,Americas,Landslide,8,1098,0,0,0,0,0
+1954,Americas,Storm,12,1432,500000,0,0,500000,1662000
+1954,Asia,Earthquake,6,4126,0,802,0,802,0
+1954,Asia,Flood,14,68812,0,0,0,0,100000
+1954,Asia,Landslide,2,60,0,0,0,0,0
+1954,Asia,Storm,8,4506,94098,0,0,94098,0
+1954,Asia,"Volcanic activity",2,74,0,0,0,0,0
+1954,Europe,Earthquake,2,62,0,400,0,400,0
+1954,Europe,Landslide,6,1014,760,0,10932,11692,0
+1955,Africa,Earthquake,2,40,0,56,0,56,0
+1955,Americas,"Extreme temperature ",2,214,0,0,0,0,0
+1955,Americas,Flood,2,148,0,0,0,0,0
+1955,Americas,"Mass movement (dry)",2,6,0,12,4000,4012,0
+1955,Americas,Storm,22,2720,0,0,0,0,1754000
+1955,Asia,Earthquake,6,1878,0,4226,0,4226,0
+1955,Asia,Flood,2,880,0,0,0,0,0
+1955,Asia,Landslide,4,956,0,0,0,0,0
+1955,Asia,Storm,14,5068,0,0,750000,750000,0
+1955,Oceania,Flood,2,140,0,0,0,0,0
+1955,Oceania,Storm,2,2,0,0,0,0,0
+1956,Africa,Storm,2,214,0,0,0,0,0
+1956,Americas,Landslide,4,132,0,0,0,0,0
+1956,Americas,Storm,8,464,0,0,0,0,0
+1956,Americas,Wildfire,2,22,0,0,0,0,0
+1956,Asia,Earthquake,8,1398,0,4838,0,4838,50000
+1956,Asia,Flood,16,7218,0,0,154000,154000,0
+1956,Asia,Landslide,6,340,0,0,0,0,0
+1956,Asia,Storm,16,5150,2000000,0,0,2000000,0
+1956,Europe,Earthquake,2,22,0,140,0,140,0
+1956,Europe,Flood,2,8,0,0,0,0,0
+1956,Europe,"Volcanic activity",2,0,0,0,0,0,0
+1956,Oceania,Storm,2,400,0,0,0,0,0
+1957,Africa,Earthquake,2,26,0,0,0,0,0
+1957,Americas,Earthquake,2,320,0,58,0,58,50000
+1957,Americas,Flood,2,224,0,0,0,0,0
+1957,Americas,Storm,6,938,0,0,0,0,300000
+1957,Asia,Earthquake,12,13640,20000,10438,0,30438,0
+1957,Asia,Flood,18,4564,536480,0,0,536480,0
+1957,Asia,Storm,10,1288,500000,222,0,500222,0
+1957,Europe,Flood,2,154,0,0,0,0,0
+1957,Europe,Storm,2,52,0,0,0,0,0
+1957,Oceania,"Volcanic activity",2,0,6400,0,0,6400,0
+1958,Americas,Earthquake,4,56,0,70,0,70,20200
+1958,Americas,"Extreme temperature ",2,0,0,0,0,0,1040000
+1958,Americas,Flood,2,720,0,0,0,0,0
+1958,Americas,Storm,6,278,0,0,0,0,0
+1958,Asia,Earthquake,4,398,0,1968,0,1968,0
+1958,Asia,"Extreme temperature ",2,1302,0,0,0,0,0
+1958,Asia,Flood,2,10,10000,0,0,10000,0
+1958,Asia,Landslide,2,104,0,0,0,0,0
+1958,Asia,Storm,16,4962,40000,0,0,40000,0
+1958,Europe,Flood,2,70,0,0,0,0,0
+1958,Oceania,Storm,4,0,0,0,0,0,0
+1959,Africa,Flood,2,102,0,0,0,0,0
+1959,Americas,Earthquake,4,112,0,0,0,0,52000
+1959,Americas,Flood,8,4668,0,0,0,0,0
+1959,Americas,Storm,8,2192,0,0,0,0,40000
+1959,Asia,Earthquake,2,94,0,0,0,0,0
+1959,Asia,Flood,16,4002022,26000,0,0,26000,0
+1959,Asia,Landslide,2,96,0,0,0,0,0
+1959,Asia,Storm,18,17196,3000000,0,0,3000000,1300000
+1959,Oceania,Storm,6,2,3200,0,0,3200,4400
+1960,Africa,Earthquake,4,24114,0,50000,2500,52500,240000
+1960,Africa,Storm,2,84,0,0,0,0,0
+1960,Americas,Earthquake,8,13376,4000000,6000,0,4006000,1100000
+1960,Americas,Flood,2,650,0,0,0,0,0
+1960,Americas,Storm,14,114,0,500,2000,2500,844000
+1960,Asia,Drought,2,0,0,0,0,0,0
+1960,Asia,Earthquake,6,1300,0,0,0,0,280000
+1960,Asia,Flood,12,20504,334000,0,0,334000,0
+1960,Asia,Landslide,2,80,0,0,0,0,0
+1960,Asia,Storm,22,18130,1280000,254,0,1280254,64000
+1960,Europe,Landslide,2,24,0,0,0,0,0
+1960,Oceania,Storm,2,0,8000,0,0,8000,82
+1960,Oceania,"Volcanic activity",2,0,4000,0,0,4000,0
+1961,Africa,Earthquake,2,0,0,0,0,0,0
+1961,Africa,Flood,2,400,0,0,0,0,0
+1961,Americas,Drought,2,0,0,0,0,0,0
+1961,Americas,Storm,10,2264,0,0,0,0,936000
+1961,Asia,Earthquake,2,120,0,0,0,0,0
+1961,Asia,"Extreme temperature ",2,800,0,0,0,0,0
+1961,Asia,Flood,14,7326,2604768,0,4000,2608768,0
+1961,Asia,Storm,14,23350,0,0,2342,2342,23800
+1961,Europe,Landslide,2,290,0,0,0,0,0
+1961,Europe,Storm,2,86,0,0,0,0,0
+1961,Oceania,Storm,2,4,16000,0,0,16000,1000
+1962,Africa,Flood,2,80,0,0,0,0,0
+1962,Americas,Earthquake,2,224,0,0,0,0,0
+1962,Americas,"Extreme temperature ",2,100,0,0,0,0,0
+1962,Americas,Flood,4,322,0,0,0,0,0
+1962,Americas,Landslide,4,142,0,0,0,0,0
+1962,Americas,"Mass movement (dry)",2,4000,0,0,0,0,400000
+1962,Americas,Storm,10,502,0,0,0,0,700000
+1962,Asia,Earthquake,4,24194,200000,6534,0,206534,60000
+1962,Asia,Flood,8,1068,0,0,0,0,0
+1962,Asia,Storm,12,2512,80000,0,0,80000,38000
+1962,Europe,Flood,2,890,0,0,0,0,160000
+1962,Europe,Storm,2,694,0,0,0,0,1200000
+1962,Oceania,Storm,2,12,0,0,0,0,500000
+1963,Africa,Earthquake,2,640,0,0,0,0,10000
+1963,Africa,Flood,6,338,160800,20,0,160820,0
+1963,Americas,Drought,2,0,26800,0,0,26800,0
+1963,Americas,Earthquake,2,560,0,920,0,920,470000
+1963,Americas,Epidemic,2,0,5448,0,0,5448,0
+1963,Americas,"Extreme temperature ",2,300,0,0,0,0,0
+1963,Americas,Flood,2,1000,0,0,0,0,0
+1963,Americas,Storm,24,14880,0,0,0,0,1658180
+1963,Americas,"Volcanic activity",2,30,10000,400,0,10400,0
+1963,Asia,Epidemic,4,2000,10000,0,0,10000,0
+1963,Asia,Flood,8,724,0,0,0,0,0
+1963,Asia,Landslide,2,232,0,0,0,0,0
+1963,Asia,"Mass movement (dry)",2,300,0,0,0,0,0
+1963,Asia,Storm,18,45050,12000000,0,4400,12004400,100000
+1963,Asia,"Volcanic activity",4,3380,156000,0,0,156000,0
+1963,Europe,Earthquake,2,2200,0,6766,0,6766,1200000
+1963,Europe,"Extreme temperature ",2,24,0,0,0,0,0
+1963,Europe,Landslide,2,3834,0,0,0,0,0
+1964,Africa,Drought,4,100,1410000,0,0,1410000,0
+1964,Africa,Earthquake,2,8,1000,0,0,1000,0
+1964,Africa,Flood,10,250,92000,0,7800,99800,6000
+1964,Americas,Drought,2,0,1200000,0,0,1200000,0
+1964,Americas,Earthquake,4,352,8000,0,0,8000,2046000
+1964,Americas,Epidemic,2,0,2400,0,0,2400,0
+1964,Americas,Flood,10,418,240000,0,0,240000,1641000
+1964,Americas,Storm,16,610,181000,236,0,181236,522600
+1964,Americas,"Volcanic activity",2,8,4000,0,0,4000,0
+1964,Asia,Drought,8,0,2582000,0,0,2582000,0
+1964,Asia,Earthquake,6,310,170000,5922,46000,221922,1610000
+1964,Asia,Epidemic,4,1234,26696,0,0,26696,0
+1964,Asia,Flood,20,1576,3698074,0,0,3698074,12000
+1964,Asia,Landslide,2,216,0,0,0,0,0
+1964,Asia,Storm,26,20200,5320910,4212,286000,5611122,275700
+1964,Europe,Earthquake,2,0,2000,0,0,2000,0
+1964,Europe,Flood,2,0,400000,0,80000,480000,125200
+1964,Oceania,Flood,2,2,16000,0,20000,36000,2200
+1964,Oceania,Storm,2,500,0,0,0,0,0
+1965,Africa,Drought,8,4000,3732000,0,0,3732000,0
+1965,Africa,Earthquake,2,4,74000,700,24000,98700,4000
+1965,Africa,Epidemic,6,120,4900,0,0,4900,0
+1965,Africa,Flood,4,150,95626,0,0,95626,10000
+1965,Americas,Drought,2,0,200000,0,0,200000,0
+1965,Americas,Earthquake,6,1064,221164,2976,96000,320140,376000
+1965,Americas,Epidemic,2,14,340,0,0,340,0
+1965,Americas,Flood,18,1510,1323000,0,130000,1453000,83200
+1965,Americas,Landslide,6,206,0,0,0,0,0
+1965,Americas,"Mass movement (dry)",2,52,0,44,0,44,0
+1965,Americas,Storm,8,1256,2400,2000,0,4400,3221400
+1965,Americas,Wildfire,2,0,0,0,0,0,2000
+1965,Asia,Drought,4,3000000,200000000,0,0,200000000,254236
+1965,Asia,Earthquake,4,222,0,0,0,0,0
+1965,Asia,Epidemic,4,1498,205000,0,0,205000,0
+1965,Asia,"Extreme temperature ",2,200,0,0,0,0,0
+1965,Asia,Flood,12,1026,7243000,490,46428,7289918,257000
+1965,Asia,Storm,24,118530,21180000,1201878,10000400,32382278,117400
+1965,Asia,"Volcanic activity",2,710,100000,1570,16000,117570,20000
+1965,Europe,Earthquake,2,76,60000,506,0,60506,16000
+1965,Europe,Flood,4,116,160000,30000,0,190000,694000
+1965,Europe,Landslide,4,202,0,0,0,0,0
+1965,Europe,Storm,2,74,0,0,0,0,0
+1965,Oceania,Storm,4,4,20000,0,0,20000,0
+1966,Africa,Drought,12,0,0,0,0,0,0
+1966,Africa,Earthquake,4,256,16000,2220,0,18220,3400
+1966,Africa,Epidemic,4,400,5884,0,0,5884,0
+1966,Africa,Flood,4,114,44000,24,31800,75824,20100
+1966,Africa,Storm,2,0,0,30,0,30,400
+1966,Americas,Drought,2,0,312000,0,0,312000,0
+1966,Americas,Earthquake,4,248,121200,3012,98512,222724,30800
+1966,Americas,"Extreme temperature ",4,524,0,0,0,0,0
+1966,Americas,Flood,16,1312,619942,3514,65000,688456,187064
+1966,Americas,Landslide,4,800,8000000,0,0,8000000,54
+1966,Americas,Storm,28,1858,640000,2850,67000,709850,505000
+1966,Asia,Drought,4,16000,408000,0,0,408000,0
+1966,Asia,Earthquake,8,4976,256000,3200,0,259200,42000
+1966,Asia,Flood,24,2280,5931106,1230,536326,6468662,206000
+1966,Asia,Landslide,2,128,0,0,0,0,0
+1966,Asia,Storm,14,2590,3729528,284,780000,4509812,105644
+1966,Asia,"Volcanic activity",4,2176,90000,4120,0,94120,0
+1966,Europe,Earthquake,6,24,252000,346,0,252346,636000
+1966,Europe,Flood,2,140,0,0,2600000,2600000,4000000
+1966,Europe,Landslide,2,280,0,0,0,0,0
+1966,Europe,Storm,2,0,0,0,0,0,0
+1966,Oceania,Storm,10,206,192000,0,0,192000,1200
+1967,Africa,Drought,4,0,156966,0,0,156966,400
+1967,Africa,Flood,6,40,162400,0,0,162400,367000
+1967,Africa,Landslide,2,308,1000,0,336,1336,0
+1967,Africa,Storm,2,0,40000,48,7000,47048,10000
+1967,Americas,Earthquake,4,602,240000,3472,0,243472,101200
+1967,Americas,Epidemic,4,178,1944,0,0,1944,0
+1967,Americas,Flood,20,1818,888488,3414,191600,1083502,154052
+1967,Americas,Landslide,2,872,0,0,0,0,0
+1967,Americas,Storm,20,806,544000,0,0,544000,783000
+1967,Asia,Drought,4,0,5600000,0,0,5600000,0
+1967,Asia,Earthquake,10,1370,577426,5706,190580,773712,6800
+1967,Asia,Epidemic,6,6096,427200,0,0,427200,0
+1967,Asia,Flood,24,2110,3452234,68,230000,3682302,122800
+1967,Asia,Storm,20,3670,597148,1798,0,598946,69400
+1967,Asia,Wildfire,2,0,0,0,0,0,0
+1967,Europe,Earthquake,6,54,65854,520,10800,77174,50000
+1967,Europe,Flood,2,924,2000,200,0,2200,6000
+1967,Europe,Storm,4,10,0,200,0,200,40000
+1967,Oceania,Drought,2,1200,0,0,0,0,1200000
+1967,Oceania,Storm,4,24,0,0,0,0,0
+1967,Oceania,Wildfire,2,124,6000,200,0,6200,137000
+1968,Africa,Drought,6,0,888000,0,0,888000,5000
+1968,Africa,Flood,10,82,184000,0,12000,196000,213340
+1968,Africa,Landslide,2,308,1200,0,336,1536,0
+1968,Africa,Storm,2,58,130000,0,20000,150000,6200
+1968,Americas,Drought,8,0,1340434,0,0,1340434,123000
+1968,Americas,Earthquake,6,52,4600,1240,0,5840,4200
+1968,Americas,"Extreme temperature ",4,306,0,0,0,0,0
+1968,Americas,Flood,4,48,42600,400,12520,55520,9000
+1968,Americas,Storm,12,318,2956,0,126,3082,16100
+1968,Americas,"Volcanic activity",2,174,24782,0,6560,31342,10000
+1968,Asia,Earthquake,12,21170,165000,9384,0,174384,344000
+1968,Asia,Epidemic,8,354,6298,0,0,6298,0
+1968,Asia,Flood,24,14338,47441784,200000,1758648,49400432,612022
+1968,Asia,Landslide,4,2044,200,14,0,214,0
+1968,Asia,Storm,22,2816,580846,2098,138626,721570,33200
+1968,Asia,"Volcanic activity",2,6,90000,0,12000,102000,10000
+1968,Asia,Wildfire,4,0,0,0,0,0,0
+1968,Europe,Earthquake,6,488,148000,1222,7200,156422,578400
+1968,Europe,Flood,2,144,0,0,6000,6000,0
+1968,Europe,Landslide,2,40,44,0,0,44,0
+1968,Europe,Storm,4,44,1400,0,0,1400,67000
+1968,Oceania,Earthquake,4,6,8348,60,800,9208,10538
+1968,Oceania,Storm,10,102,2000,8,400,2408,476
+1968,Oceania,Wildfire,2,24,2000,0,1600,3600,2000
+1969,Africa,Drought,12,0,12550000,0,0,12550000,385600
+1969,Africa,Earthquake,4,66,2000,330,840,3170,640
+1969,Africa,Epidemic,12,5898,177156,0,0,177156,0
+1969,Africa,Flood,6,1232,947138,474,0,947612,220400
+1969,Africa,Storm,2,162,80000,80,6000,86080,10000
+1969,Americas,Drought,2,0,257208,0,0,257208,20000
+1969,Americas,Earthquake,2,300,6000,432,0,6432,10000
+1969,Americas,Epidemic,14,868,80208,0,0,80208,14
+1969,Americas,Flood,10,876,193760,6488,34768,235016,820640
+1969,Americas,Landslide,2,36,0,0,0,0,0
+1969,Americas,Storm,20,2088,45600,84,0,45684,2911200
+1969,Asia,Drought,6,0,5096000,0,40000,5136000,24400
+1969,Asia,Earthquake,8,6310,96000,1494,0,97494,0
+1969,Asia,Epidemic,2,274,3076,0,0,3076,0
+1969,Asia,Flood,12,980,2458528,818,0,2459346,61800
+1969,Asia,Storm,24,4208,1206932,32106,47886,1286924,209518
+1969,Asia,"Volcanic activity",4,0,503400,0,0,503400,400
+1969,Asia,Wildfire,4,0,0,0,0,0,0
+1969,Europe,Earthquake,2,30,400000,2232,170000,572232,100000
+1969,Europe,Storm,2,46,0,0,0,0,0
+1969,Oceania,Storm,2,0,0,0,0,0,6000
+1970,Africa,Drought,2,0,175200,0,0,175200,4000
+1970,Africa,Epidemic,6,1878,16354,0,0,16354,0
+1970,Africa,Flood,4,22,532882,6,0,532888,60400
+1970,Africa,Storm,2,140,20000,0,0,20000,22800
+1970,Americas,Drought,2,0,20000000,0,0,20000000,200
+1970,Americas,Earthquake,10,134564,6301818,287418,55984,6645220,1072800
+1970,Americas,Flood,30,1616,10898432,1200,220000,11119632,522140
+1970,Americas,Storm,14,224,10000,0,0,10000,1256000
+1970,Americas,Wildfire,2,0,0,0,0,0,200000
+1970,Asia,Earthquake,10,22604,181344,5952,0,187296,127200
+1970,Asia,Epidemic,2,0,0,0,0,0,0
+1970,Asia,Flood,22,3750,40950140,2000,700736,41652876,326400
+1970,Asia,Landslide,6,168,226,0,0,226,0
+1970,Asia,Storm,28,608530,10794090,10064,154160,10958314,699798
+1970,Asia,Wildfire,4,0,0,0,0,0,0
+1970,Europe,Flood,6,1104,3077510,0,3300,3080810,1706600
+1970,Europe,Landslide,4,204,96,0,0,96,0
+1970,Europe,"Mass movement (dry)",2,84,0,74,0,74,0
+1970,Europe,Storm,2,70,400,0,0,400,6400
+1970,Oceania,Earthquake,2,30,0,0,0,0,3500
+1970,Oceania,Storm,2,26,0,0,0,0,144950
+1971,Africa,Drought,12,0,1998000,0,0,1998000,7800
+1971,Africa,Epidemic,2,4624,14952,0,0,14952,0
+1971,Africa,Flood,2,1000,1000000,0,0,1000000,0
+1971,Americas,Earthquake,4,300,4697044,2902,0,4699946,1542800
+1971,Americas,Epidemic,2,2,0,0,0,0,0
+1971,Americas,Flood,16,1080,782800,4000,0,786800,12200
+1971,Americas,Landslide,6,1640,12,0,0,12,0
+1971,Americas,"Mass movement (dry)",2,62,0,0,3000,3000,0
+1971,Americas,Storm,14,420,185600,100,3600,189300,5760
+1971,Americas,"Volcanic activity",4,0,10000,0,1200,11200,4000
+1971,Asia,Drought,2,0,0,0,0,0,0
+1971,Asia,Earthquake,4,1870,120000,2400,54930,177330,10000
+1971,Asia,Flood,8,2674,530000,0,30000,560000,1060400
+1971,Asia,Landslide,2,200,0,0,0,0,0
+1971,Asia,Storm,26,21196,9900500,594,4095000,13996094,62580
+1971,Asia,Wildfire,4,0,0,0,0,0,0
+1971,Europe,Earthquake,2,44,8240,200,0,8440,83200
+1971,Europe,"Extreme temperature ",2,800,0,0,0,0,200000
+1971,Europe,Flood,2,0,1200,0,0,1200,0
+1971,Europe,Storm,2,0,0,0,0,0,110000
+1971,Oceania,Flood,2,54,0,0,0,0,40000
+1971,Oceania,Landslide,2,200,0,0,0,0,0
+1971,Oceania,Storm,2,6,0,0,0,0,238438
+1971,Oceania,"Volcanic activity",2,0,12000,0,0,12000,0
+1972,Africa,Drought,6,0,230000,0,0,230000,0
+1972,Africa,Flood,2,0,2000,0,0,2000,100
+1972,Africa,Storm,4,186,5050000,144,20000,5070144,24840
+1972,Americas,Drought,2,0,600000,0,0,600000,14000
+1972,Americas,Earthquake,4,20024,3800000,40000,750000,4590000,1730000
+1972,Americas,"Extreme temperature ",4,220,0,0,0,0,0
+1972,Americas,Flood,8,704,286600,140,0,286740,242018
+1972,Americas,Landslide,4,940,0,0,0,0,0
+1972,Americas,Storm,4,512,0,0,0,0,4200000
+1972,Asia,Drought,6,0,408800000,0,0,408800000,360000
+1972,Asia,Earthquake,4,10314,44252,2664,0,46916,2000
+1972,Asia,Flood,18,4392,6919522,1790,1421004,8342316,586868
+1972,Asia,Landslide,6,570,2000,0,0,2000,0
+1972,Asia,Storm,20,2010,10040150,1356,54000,10095506,96000
+1972,Asia,Wildfire,6,0,0,0,0,0,0
+1972,Europe,Earthquake,2,2,900,0,0,900,0
+1972,Europe,Epidemic,2,70,348,0,0,348,0
+1972,Europe,Flood,2,0,0,0,0,0,40000
+1972,Europe,Storm,8,108,0,0,0,0,840000
+1972,Oceania,Storm,16,38,242800,0,0,242800,45000
+1973,Africa,Drought,2,200000,6000000,0,0,6000000,152000
+1973,Africa,Flood,8,264,284480,0,122000,406480,30000
+1973,Africa,Wildfire,2,0,0,0,10000,10000,0
+1973,Americas,Drought,2,0,0,0,0,0,0
+1973,Americas,Earthquake,6,1076,7126,196,168,7490,400
+1973,Americas,"Extreme temperature ",2,44,0,0,0,0,0
+1973,Americas,Flood,18,454,320000,398,60000,380398,1237000
+1973,Americas,Landslide,10,7082,0,0,0,0,0
+1973,Americas,Storm,8,232,5492,620,0,6112,103400
+1973,Asia,Earthquake,2,28,0,128,0,128,900
+1973,Asia,"Extreme temperature ",4,522,0,0,0,0,0
+1973,Asia,Flood,10,1928,9610000,1224,4500,9615724,1323986
+1973,Asia,Storm,20,8196,7150476,30124,110000,7290600,14000
+1973,Asia,Wildfire,4,0,0,0,0,0,0
+1973,Europe,Flood,2,1000,0,0,0,0,800000
+1973,Europe,Storm,10,136,10000,0,0,10000,960000
+1973,Europe,"Volcanic activity",2,0,10400,0,0,10400,49400
+1973,Oceania,Flood,2,24,22000,0,2000,24000,142000
+1973,Oceania,Storm,6,124,13700,0,400,14100,1000
+1974,Africa,Drought,2,38000,460000,0,0,460000,0
+1974,Africa,Epidemic,2,0,1000,0,0,1000,0
+1974,Africa,Flood,10,124,3972000,0,36000,4008000,68000
+1974,Americas,Drought,2,0,1014000,0,0,1014000,0
+1974,Americas,Earthquake,2,156,82520,4828,0,87348,20000
+1974,Americas,Epidemic,2,3000,60000,0,0,60000,0
+1974,Americas,Flood,10,536,766000,0,0,766000,462000
+1974,Americas,Landslide,10,1642,24000,2000,3000,29000,43400
+1974,Americas,Storm,14,16934,1640000,0,0,1640000,3098000
+1974,Asia,Drought,2,0,0,0,0,0,0
+1974,Asia,Earthquake,6,49460,60000,30146,10400,100546,6510
+1974,Asia,Flood,16,58174,77463646,0,4150000,81613646,1272000
+1974,Asia,"Insect infestation",2,0,0,0,0,0,0
+1974,Asia,Landslide,4,88,0,0,0,0,0
+1974,Asia,Storm,36,6636,252990,534,12882,266406,910600
+1974,Asia,Wildfire,6,0,0,0,0,0,0
+1974,Europe,Landslide,6,78,0,0,0,0,0
+1974,Europe,Storm,2,0,0,0,0,0,44000
+1974,Oceania,Drought,2,0,0,0,0,0,0
+1974,Oceania,Flood,2,28,0,0,0,0,11944
+1974,Oceania,Storm,4,152,90000,1280,0,91280,2193434
+1975,Africa,Flood,12,52,496000,0,0,496000,0
+1975,Africa,Storm,8,56,1692398,218,0,1692616,407200
+1975,Americas,Epidemic,2,0,214,0,0,214,0
+1975,Americas,"Extreme temperature ",4,252,0,1200,0,1200,1200000
+1975,Americas,Flood,4,236,1496000,0,160000,1656000,519200
+1975,Americas,Storm,18,382,400,80,600,1080,1105000
+1975,Americas,"Volcanic activity",6,4,0,0,0,0,0
+1975,Asia,Drought,2,0,0,0,0,0,0
+1975,Asia,Earthquake,6,24864,100000,6744,0,106744,34000
+1975,Asia,"Extreme temperature ",2,28,0,0,0,0,0
+1975,Asia,Flood,14,1288,60106410,186,14000300,74106896,1543918
+1975,Asia,"Insect infestation",2,0,0,0,0,0,1850
+1975,Asia,Landslide,4,310,150000,0,0,150000,0
+1975,Asia,Storm,22,1644,10748,212,7956,18916,1414322
+1975,Europe,Flood,2,120,2000000,0,0,2000000,100000
+1975,Europe,Landslide,6,80,0,0,0,0,0
+1975,Oceania,Earthquake,2,400,0,0,0,0,0
+1975,Oceania,Flood,2,0,0,0,0,0,109368
+1975,Oceania,Storm,8,0,46000,0,0,46000,129722
+1975,Oceania,Wildfire,4,0,0,0,0,0,0
+1976,Africa,Drought,4,0,6240000,0,0,6240000,0
+1976,Africa,Epidemic,6,792,1136,0,0,1136,0
+1976,Africa,Flood,2,0,100000,0,40000,140000,0
+1976,Africa,Storm,2,32,1000000,52,17700,1017752,34000
+1976,Americas,Earthquake,8,46042,7500000,154016,2372000,10026016,2008000
+1976,Americas,Flood,10,444,46000,0,0,46000,122000
+1976,Americas,Landslide,4,146,0,32,0,32,0
+1976,Americas,Storm,4,1440,950000,2800,200000,1152800,200000
+1976,Americas,"Volcanic activity",6,2,330000,6,10000,340006,0
+1976,Americas,Wildfire,2,0,0,0,0,0,0
+1976,Asia,Drought,2,0,0,0,0,0,0
+1976,Asia,Earthquake,22,506076,1774000,380274,102000,2256274,11908000
+1976,Asia,Flood,18,1476,19364156,40,400000,19764196,1093106
+1976,Asia,Landslide,8,484,0,0,0,0,200000
+1976,Asia,Storm,32,1872,7258886,784,5068,7264738,2490766
+1976,Asia,"Volcanic activity",4,80,23020,0,0,23020,1358
+1976,Europe,Drought,2,0,0,0,0,0,0
+1976,Europe,Earthquake,8,1870,222944,3512,274000,500456,7370000
+1976,Europe,Storm,18,164,0,0,0,0,2600000
+1976,Oceania,Drought,4,0,0,0,0,0,0
+1976,Oceania,Earthquake,2,0,0,0,0,0,0
+1976,Oceania,Flood,4,0,20258,0,0,20258,0
+1976,Oceania,Storm,16,18,0,0,0,0,454022
+1977,Africa,Drought,12,0,8416800,0,0,8416800,600000
+1977,Africa,Epidemic,8,1000,30558,0,0,30558,0
+1977,Africa,Flood,16,822,1124000,0,169800,1293800,136000
+1977,Africa,Storm,6,52,60000,302,0,60302,700000
+1977,Africa,"Volcanic activity",8,424,42000,0,130000,172000,0
+1977,Americas,Drought,8,0,900000,0,0,900000,6000000
+1977,Americas,Earthquake,2,140,0,200,80000,80200,160000
+1977,Americas,Epidemic,6,52,600,0,0,600,0
+1977,Americas,"Extreme temperature ",2,0,0,0,0,0,5600000
+1977,Americas,Flood,24,480,349680,0,140600,490280,422000
+1977,Americas,Landslide,2,0,0,0,200,200,0
+1977,Americas,Storm,12,252,100000,200,33600,133800,13600
+1977,Asia,Drought,12,0,7500000,0,0,7500000,0
+1977,Asia,Earthquake,18,2664,968052,2820,0,970872,2600
+1977,Asia,Epidemic,28,1282,315984,0,0,315984,0
+1977,Asia,Flood,36,3670,4861972,14000,490120,5366092,95826
+1977,Asia,Landslide,2,54,0,0,0,0,0
+1977,Asia,Storm,38,30292,18429684,22968,10915300,29367952,1605920
+1977,Asia,"Volcanic activity",2,6,20000,0,0,20000,44000
+1977,Europe,Earthquake,4,3322,400000,22930,350000,772930,4000000
+1977,Europe,Flood,16,164,57200,0,0,57200,786000
+1977,Europe,Landslide,2,26,0,100,0,100,22000
+1977,Oceania,Earthquake,4,70,12000,12,1000,13012,2400
+1977,Oceania,Epidemic,2,34,704,0,0,704,0
+1977,Oceania,Flood,4,0,240,0,0,240,35372
+1977,Oceania,Storm,8,0,20000,10,0,20010,100098
+1977,Oceania,Wildfire,4,6,0,0,0,0,49520
+1978,Africa,Drought,6,0,1054000,0,0,1054000,51000
+1978,Africa,Epidemic,12,552,7656,0,0,7656,0
+1978,Africa,Flood,16,240,880000,1800,12000,893800,180400
+1978,Africa,"Insect infestation",2,0,0,0,0,0,0
+1978,Africa,Storm,6,348,196000,0,50000,246000,58000
+1978,Africa,Wildfire,2,4,8000,400,6000,14400,0
+1978,Americas,Drought,4,0,0,0,0,0,4600000
+1978,Americas,Earthquake,2,18,7500,200,0,7700,0
+1978,Americas,Epidemic,2,0,0,0,0,0,0
+1978,Americas,Flood,18,248,395200,0,40000,435200,52600
+1978,Americas,Storm,16,462,12200,340,15000,27540,214000
+1978,Asia,Drought,6,126,12041770,0,0,12041770,2400
+1978,Asia,Earthquake,10,50196,84446,1382,5000,90828,1830000
+1978,Asia,Epidemic,28,5568,4024758,0,0,4024758,0
+1978,Asia,"Extreme temperature ",2,300,0,0,0,0,0
+1978,Asia,Flood,44,11278,83410888,1176,224400,83636464,1237826
+1978,Asia,"Insect infestation",2,0,0,0,0,0,0
+1978,Asia,Landslide,4,172,0,14,0,14,0
+1978,Asia,Storm,48,6530,5843124,14638,160658,6018420,618168
+1978,Asia,"Volcanic activity",4,0,52000,0,0,52000,0
+1978,Asia,Wildfire,4,0,0,0,0,0,0
+1978,Europe,Earthquake,6,110,1201800,270,400,1202470,800000
+1978,Europe,Flood,6,14,2000,0,0,2000,710000
+1978,Europe,Storm,2,2,0,38,0,38,2000
+1978,Oceania,Drought,2,0,0,0,0,0,0
+1978,Oceania,Flood,10,14,5452,0,0,5452,41420
+1978,Oceania,Storm,12,10,200,0,0,200,2133228
+1979,Africa,Drought,8,0,14980000,0,0,14980000,0
+1979,Africa,Epidemic,4,542,3384,0,0,3384,0
+1979,Africa,Flood,12,132,424620,0,1464,426084,28000
+1979,Africa,"Insect infestation",2,0,0,0,0,0,0
+1979,Africa,Storm,6,16,230000,514,10000,240514,350000
+1979,Americas,Drought,2,0,10000000,0,0,10000000,0
+1979,Americas,Earthquake,10,1314,39000,5434,200,44634,116000
+1979,Americas,Flood,24,878,4176000,0,244000,4420000,64000
+1979,Americas,Landslide,2,60,0,0,0,0,0
+1979,Americas,Storm,22,3274,2595220,12526,700000,3307746,6415300
+1979,Americas,"Volcanic activity",2,4,40000,0,0,40000,0
+1979,Asia,Drought,12,36,27004000,0,0,27004000,400000
+1979,Asia,Earthquake,28,2542,179000,6554,36000,221554,40300
+1979,Asia,Epidemic,2,430,0,0,0,0,0
+1979,Asia,"Extreme temperature ",6,940,0,0,0,0,0
+1979,Asia,Flood,22,906,56175400,800,28000,56204200,220366
+1979,Asia,Landslide,8,590,10600,36,0,10636,0
+1979,Asia,Storm,24,1816,4351738,1066,125262,4478066,178500
+1979,Asia,"Volcanic activity",4,514,34000,2000,20000,56000,0
+1979,Asia,Wildfire,6,0,60000,0,0,60000,22000
+1979,Europe,Earthquake,10,344,600000,1064,30000,631064,900000
+1979,Europe,"Extreme temperature ",2,0,0,0,0,0,160000
+1979,Europe,Flood,10,160,94000,540,20000,114540,64200
+1979,Europe,"Volcanic activity",2,18,0,48,0,48,0
+1979,Oceania,Earthquake,2,0,0,0,0,0,14150
+1979,Oceania,Landslide,4,26,1200,0,0,1200,4932
+1979,Oceania,Storm,10,140,53200,600,30000,83800,99938
+1979,Oceania,Wildfire,2,0,0,0,0,0,8180
+1980,Africa,Drought,18,0,16990000,0,0,16990000,0
+1980,Africa,Earthquake,4,5270,957896,16918,886000,1860814,10400000
+1980,Africa,Epidemic,10,1290,54390,0,0,54390,0
+1980,Africa,Storm,2,50,14000,0,0,14000,134000
+1980,Americas,Drought,2,0,206000,0,0,206000,0
+1980,Americas,Earthquake,14,168,18300,876,0,19176,0
+1980,Americas,"Extreme temperature ",2,2520,0,0,0,0,4000000
+1980,Americas,Flood,28,718,1228700,100,12000,1240800,874000
+1980,Americas,Storm,30,580,900000,468,1701800,2602268,3200180
+1980,Americas,"Volcanic activity",2,180,0,0,5000,5000,1720000
+1980,Americas,Wildfire,2,0,10000,0,0,10000,0
+1980,Asia,Drought,4,0,2004200,0,0,2004200,0
+1980,Asia,Earthquake,20,330,440000,11656,70000,521656,490000
+1980,Asia,Epidemic,6,2080,0,0,0,0,0
+1980,Asia,"Extreme temperature ",4,258,0,0,0,0,0
+1980,Asia,Flood,40,20202,88788452,54246,300000,89142698,1416200
+1980,Asia,Landslide,6,580,0,20,6000,6020,0
+1980,Asia,"Mass movement (dry)",2,100,0,0,0,0,0
+1980,Asia,Storm,40,2128,32700280,1242,2414958,35116480,251222
+1980,Asia,"Volcanic activity",2,0,104470,0,0,104470,0
+1980,Asia,Wildfire,4,0,0,0,0,0,0
+1980,Europe,Drought,2,0,0,0,0,0,3000000
+1980,Europe,Earthquake,10,9692,852600,16834,0,869434,40010000
+1980,Europe,Flood,6,12,9600,26,0,9626,0
+1980,Europe,Storm,2,0,0,0,0,0,0
+1980,Oceania,Drought,2,0,80000,0,0,80000,0
+1980,Oceania,Flood,4,0,5800,0,0,5800,0
+1980,Oceania,Storm,12,36,56000,500,14000,70500,194368
+1980,Oceania,Wildfire,2,0,0,80,0,80,51950
+1981,Africa,Drought,14,206000,14660000,0,0,14660000,0
+1981,Africa,Epidemic,8,4986,128332,0,0,128332,0
+1981,Africa,Flood,14,354,1314000,100,370,1314470,2000
+1981,Africa,Storm,4,214,237800,100,1800,239700,500250
+1981,Americas,Drought,4,0,0,0,0,0,0
+1981,Americas,Earthquake,10,92,24312,286,0,24598,10000
+1981,Americas,Flood,14,734,404000,600,10000,414600,22000
+1981,Americas,Landslide,8,362,36000,0,0,36000,0
+1981,Americas,Storm,10,260,0,0,0,0,1960000
+1981,Asia,Drought,4,0,0,0,0,0,0
+1981,Asia,Earthquake,14,8248,115814,13724,0,129538,2010000
+1981,Asia,Epidemic,2,8,1430,0,0,1430,0
+1981,Asia,"Extreme temperature ",2,600,0,0,0,0,0
+1981,Asia,Flood,42,9274,39305200,66524,412000,39783724,5222800
+1981,Asia,Landslide,8,480,12000,0,0,12000,0
+1981,Asia,Storm,58,7056,6677742,25738,117916,6821396,474768
+1981,Asia,"Volcanic activity",2,384,0,0,10000,10000,0
+1981,Asia,Wildfire,8,16,57176,0,40000,97176,0
+1981,Europe,Drought,2,0,0,0,0,0,2920000
+1981,Europe,Earthquake,10,72,161500,900,0,162400,1800000
+1981,Europe,"Extreme temperature ",2,0,0,0,0,0,0
+1981,Europe,Flood,8,200,1800,0,4000,5800,0
+1981,Europe,Storm,12,42,21200,0,0,21200,500000
+1981,Oceania,Drought,2,0,160000,0,0,160000,12000000
+1981,Oceania,Flood,8,4,4500,0,0,4500,399030
+1981,Oceania,Storm,16,8,13400,0,0,13400,18190
+1982,Africa,Drought,16,0,4474600,0,0,4474600,2000
+1982,Africa,Earthquake,2,34,0,0,0,0,0
+1982,Africa,Epidemic,6,118,330,0,0,330,0
+1982,Africa,Flood,12,458,1175000,28,160000,1335028,180000
+1982,Africa,Landslide,2,2,20000,0,4432,24432,0
+1982,Africa,"Mass movement (dry)",2,92,400,0,0,400,0
+1982,Africa,Storm,8,190,69200,244,140000,209444,507946
+1982,Americas,Drought,2,0,0,0,0,0,0
+1982,Americas,Earthquake,12,144,61000,34,5000,66034,10000
+1982,Americas,"Extreme temperature ",2,0,400,0,0,400,0
+1982,Americas,Flood,28,3770,1996000,36912,10000,2042912,2321200
+1982,Americas,Landslide,4,460,60000,0,0,60000,0
+1982,Americas,Storm,32,1972,534000,600,181000,715600,5472800
+1982,Americas,"Volcanic activity",2,200,50000,1000,30000,81000,234000
+1982,Asia,Drought,6,560,204000000,0,0,204000000,0
+1982,Asia,Earthquake,14,4060,914800,10044,4000,928844,4011900
+1982,Asia,Epidemic,8,5706,350270,0,0,350270,0
+1982,Asia,"Extreme temperature ",2,800,0,0,0,0,0
+1982,Asia,Flood,44,4914,70183074,10444,570000,70763518,3416120
+1982,Asia,Landslide,10,788,6000,230,5600,11830,0
+1982,Asia,Storm,44,3362,14668344,3120,949966,15621430,2212050
+1982,Asia,"Volcanic activity",4,60,660000,0,0,660000,320000
+1982,Asia,Wildfire,4,0,0,0,18000,18000,0
+1982,Europe,Drought,2,0,0,0,0,0,0
+1982,Europe,Earthquake,8,2,14100,10,10000,24110,70000
+1982,Europe,"Extreme temperature ",2,0,0,0,0,0,0
+1982,Europe,Flood,12,154,480000,3200,4820,488020,1966000
+1982,Europe,Landslide,6,30,8000,0,0,8000,1400000
+1982,Europe,"Mass movement (dry)",2,26,0,0,0,0,0
+1982,Europe,Storm,8,24,0,0,0,0,702000
+1982,Europe,Wildfire,2,4,0,36,0,36,0
+1982,Oceania,Storm,12,16,260000,28,93000,353028,106770
+1983,Africa,Drought,34,901000,68846000,0,0,68846000,143508
+1983,Africa,Earthquake,2,550,40000,2872,0,42872,0
+1983,Africa,Epidemic,6,1178,12130,0,0,12130,0
+1983,Africa,Flood,6,0,214000,0,60000,274000,2812
+1983,Africa,Storm,8,172,87820,506,0,88326,96000
+1983,Americas,Drought,14,40,46478098,0,0,46478098,1834400
+1983,Americas,Earthquake,16,556,86950,2674,0,89624,928300
+1983,Americas,"Extreme temperature ",4,410,5400,0,0,5400,0
+1983,Americas,Flood,24,988,19349072,678,516000,19865750,5596800
+1983,Americas,Landslide,10,1518,1400000,80,0,1400080,1977600
+1983,Americas,"Mass movement (dry)",2,320,0,0,0,0,0
+1983,Americas,Storm,22,816,506000,80,78000,584080,9312900
+1983,Americas,"Volcanic activity",2,0,7000,0,0,7000,0
+1983,Americas,Wildfire,2,0,0,0,0,0,0
+1983,Asia,Drought,8,0,43382120,0,0,43382120,0
+1983,Asia,Earthquake,20,3142,1672340,9692,112910,1794942,910454
+1983,Asia,Epidemic,8,1260,3486,0,0,3486,0
+1983,Asia,Flood,38,2900,20017230,158,701200,20718588,34020
+1983,Asia,Landslide,14,782,50000,376,0,50376,0
+1983,Asia,"Mass movement (dry)",4,594,0,0,0,0,0
+1983,Asia,Storm,54,6236,4575284,7046,1294772,5877102,1215728
+1983,Asia,"Volcanic activity",8,0,40870,0,2200,43070,350380
+1983,Asia,Wildfire,4,0,0,0,0,0,0
+1983,Europe,Drought,6,0,0,0,0,0,190000
+1983,Europe,Earthquake,10,28,42960,134,30000,73094,100000
+1983,Europe,Flood,24,164,1016600,48,12000,1028648,9209000
+1983,Europe,Landslide,6,18,0,10,0,10,0
+1983,Europe,"Mass movement (dry)",2,18,0,30,0,30,0
+1983,Europe,Storm,18,56,2080,24,0,2104,6000
+1983,Europe,"Volcanic activity",2,0,0,0,0,0,0
+1983,Europe,Wildfire,14,62,0,40,0,40,400000
+1983,Oceania,Drought,2,0,62000,0,0,62000,60000
+1983,Oceania,Earthquake,2,20,0,0,0,0,0
+1983,Oceania,Flood,6,112,26280,0,0,26280,23800
+1983,Oceania,Storm,16,32,434264,128,0,434392,258926
+1983,Oceania,"Volcanic activity",2,0,50000,0,0,50000,0
+1983,Oceania,Wildfire,4,150,2000,0,22000,24000,863300
+1984,Africa,Drought,12,0,6440000,0,0,6440000,0
+1984,Africa,Epidemic,10,2250,14004,0,0,14004,0
+1984,Africa,Flood,6,108,9000,0,2940,11940,0
+1984,Africa,Storm,18,766,3175000,430,1000,3176430,1042304
+1984,Africa,"Volcanic activity",2,74,0,0,0,0,0
+1984,Africa,Wildfire,2,0,0,0,0,0,0
+1984,Americas,Drought,2,0,60000,0,0,60000,2000000
+1984,Americas,Epidemic,2,600,0,0,0,0,0
+1984,Americas,Flood,28,584,768000,0,74200,842200,4130000
+1984,Americas,Landslide,4,74,24000,28,0,24028,6000
+1984,Americas,Storm,36,2520,474528,1544,239988,716060,4453430
+1984,Americas,"Volcanic activity",2,0,6000,0,0,6000,0
+1984,Asia,Drought,2,460,4000,0,0,4000,0
+1984,Asia,Earthquake,18,106,1505100,852,20000,1525952,98000
+1984,Asia,Epidemic,10,11130,62000,0,0,62000,0
+1984,Asia,"Extreme temperature ",2,580,0,0,0,0,0
+1984,Asia,Flood,48,5096,101461048,466,824000,102285514,1323000
+1984,Asia,Landslide,6,322,8000,80,0,8080,80000
+1984,Asia,Storm,24,6742,10392462,6496,2645052,13044010,742980
+1984,Asia,"Volcanic activity",8,0,196000,0,0,196000,0
+1984,Asia,Wildfire,2,0,0,0,0,0,4000
+1984,Europe,Earthquake,8,8,10000,770,48600,59370,0
+1984,Europe,Epidemic,2,52,32,0,0,32,0
+1984,Europe,Flood,8,0,4000,0,0,4000,0
+1984,Europe,Landslide,2,60,0,0,0,0,0
+1984,Europe,Storm,34,908,120000,620,0,120620,4084200
+1984,Europe,"Volcanic activity",2,0,0,0,0,0,0
+1984,Europe,Wildfire,10,34,400,0,0,400,0
+1984,Oceania,Flood,4,72,13610,0,0,13610,46000
+1984,Oceania,Storm,2,0,0,0,0,0,0
+1985,Africa,Drought,2,0,1000000,0,0,1000000,0
+1985,Africa,Earthquake,2,60,0,0,0,0,2000
+1985,Africa,Epidemic,10,6050,31696,0,0,31696,0
+1985,Africa,Flood,22,208,1896000,0,333944,2229944,26600
+1985,Africa,"Insect infestation",4,0,0,0,0,0,0
+1985,Africa,Storm,6,4,70000,0,0,70000,11136
+1985,Africa,Wildfire,2,8,3000,0,0,3000,0
+1985,Americas,Drought,2,0,0,0,0,0,1302000
+1985,Americas,Earthquake,10,19372,6052584,66050,1207600,7326234,11208000
+1985,Americas,Flood,28,1400,3568890,0,116950,3685840,3485000
+1985,Americas,Landslide,6,500,0,0,8000,8000,0
+1985,Americas,"Mass movement (dry)",2,0,0,0,0,0,0
+1985,Americas,Storm,32,816,2955322,3400,90200,3048922,10411610
+1985,Americas,"Volcanic activity",2,43600,15400,10000,0,25400,2000000
+1985,Americas,Wildfire,4,0,1600,0,0,1600,0
+1985,Asia,Drought,2,0,0,0,0,0,0
+1985,Asia,Earthquake,20,216,39630,1408,32130,73168,4000
+1985,Asia,Epidemic,14,5590,13672,0,0,13672,0
+1985,Asia,"Extreme temperature ",4,656,0,0,0,0,288000
+1985,Asia,Flood,50,6432,28542500,114,918000,29460614,3928700
+1985,Asia,Landslide,2,120,0,0,0,0,0
+1985,Asia,"Mass movement (dry)",2,600,0,0,0,0,0
+1985,Asia,Storm,36,33374,7002574,8440,1470512,8481526,493150
+1985,Asia,"Volcanic activity",2,0,2156,0,0,2156,0
+1985,Asia,Wildfire,4,26,0,0,0,0,0
+1985,Europe,Earthquake,6,58,19372,192,0,19564,0
+1985,Europe,Epidemic,2,68,288,0,0,288,0
+1985,Europe,"Extreme temperature ",12,256,11490,0,2680,14170,0
+1985,Europe,Flood,10,704,20000,60,0,20060,61600
+1985,Europe,Landslide,4,134,0,52,0,52,0
+1985,Europe,Storm,14,0,0,0,0,0,4000
+1985,Europe,Wildfire,12,46,600,260,0,860,190000
+1985,Oceania,Earthquake,6,0,0,0,0,0,2000
+1985,Oceania,Flood,6,8,540,0,0,540,11556
+1985,Oceania,Storm,14,136,480300,0,0,480300,756510
+1985,Oceania,Wildfire,4,22,0,200,0,200,66338
+1986,Africa,Drought,2,0,1700000,0,0,1700000,0
+1986,Africa,Epidemic,10,5114,17666,0,0,17666,0
+1986,Africa,Flood,6,46,56446,0,17000,73446,0
+1986,Africa,"Insect infestation",26,0,0,0,0,0,0
+1986,Africa,Storm,2,198,167770,848,0,168618,300000
+1986,Africa,"Volcanic activity",2,3492,20000,874,0,20874,0
+1986,Americas,Drought,2,0,0,0,0,0,0
+1986,Americas,Earthquake,16,2240,1051600,40318,517800,1609718,3057440
+1986,Americas,Epidemic,2,0,69444,0,0,69444,0
+1986,Americas,"Extreme temperature ",2,96,0,0,0,0,3500000
+1986,Americas,Flood,38,790,2287190,1340,269400,2557930,399500
+1986,Americas,Landslide,8,602,0,0,732,732,0
+1986,Americas,Storm,18,68,128380,192,0,128572,148000
+1986,Americas,Wildfire,4,0,4000,0,0,4000,0
+1986,Asia,Drought,2,168,2000,0,0,2000,0
+1986,Asia,Earthquake,16,70,46800,366,1080,48246,10000
+1986,Asia,Epidemic,10,978,1128600,0,0,1128600,0
+1986,Asia,"Extreme temperature ",2,4,60000,0,0,60000,0
+1986,Asia,Flood,42,2668,19483754,48,2600000,22083802,6965600
+1986,Asia,Landslide,10,400,612,56,5000000,5000668,0
+1986,Asia,Storm,66,3370,28096144,18268,673266,28787678,8972206
+1986,Asia,"Volcanic activity",2,0,26000,0,0,26000,0
+1986,Asia,Wildfire,4,0,0,6,0,6,0
+1986,Europe,Drought,2,0,0,0,0,0,1000000
+1986,Europe,Earthquake,8,52,540000,1836,15000,556836,2950000
+1986,Europe,Flood,4,4,2000,0,0,2000,40000
+1986,Europe,Storm,10,22,0,0,0,0,210000
+1986,Europe,Wildfire,4,40,4000,100,0,4100,0
+1986,Oceania,Earthquake,2,0,2000,0,0,2000,1000
+1986,Oceania,Flood,10,56,433660,0,0,433660,198800
+1986,Oceania,Storm,16,220,195000,24,122000,317024,483278
+1987,Africa,Drought,12,2034,25974534,0,0,25974534,0
+1987,Africa,Earthquake,4,20,6860,64,0,6924,2000
+1987,Africa,Epidemic,34,3250,16418,0,0,16418,0
+1987,Africa,Flood,6,1048,330000,0,60000,390000,1530610
+1987,Africa,"Insect infestation",28,0,0,0,0,0,0
+1987,Africa,Storm,8,130,8000,28,107400,115428,22000
+1987,Americas,Drought,4,0,1646000,0,0,1646000,0
+1987,Americas,Earthquake,12,10034,10400,524,310000,320924,3436000
+1987,Americas,"Extreme temperature ",2,160,0,0,0,0,0
+1987,Americas,Flood,46,1272,478848,1550,163400,643798,921000
+1987,Americas,Landslide,14,1952,50000,5622,4080,59702,1600
+1987,Americas,Storm,30,362,8400,596,860,9856,1316000
+1987,Americas,"Volcanic activity",2,0,6000,70,0,6070,0
+1987,Americas,Wildfire,6,0,304000,4,1500,305504,200000
+1987,Asia,Drought,14,600,606404200,0,0,606404200,0
+1987,Asia,Earthquake,18,262,489218,576,16000,505794,10000
+1987,Asia,Epidemic,16,1934,1208700,0,0,1208700,0
+1987,Asia,"Extreme temperature ",8,280,0,34,0,34,0
+1987,Asia,Flood,64,10936,98688752,1426,309600,98999778,4881800
+1987,Asia,"Insect infestation",2,0,0,0,0,0,0
+1987,Asia,Landslide,4,270,238,0,0,238,0
+1987,Asia,"Mass movement (dry)",2,262,1302,100,0,1402,2000
+1987,Asia,Storm,46,4978,9316054,7750,2205078,11528882,1677400
+1987,Asia,"Volcanic activity",2,0,26000,0,0,26000,0
+1987,Asia,Wildfire,4,382,112184,442,0,112626,220000
+1987,Europe,"Extreme temperature ",2,2000,0,0,0,0,0
+1987,Europe,Flood,18,276,44000,0,32000,76000,4800000
+1987,Europe,Landslide,6,166,12000,378,0,12378,1250000
+1987,Europe,"Mass movement (dry)",2,104,1000,12,0,1012,0
+1987,Europe,Storm,18,212,0,0,0,0,9961200
+1987,Europe,Wildfire,4,0,0,0,0,0,0
+1987,Oceania,Earthquake,4,4,22000,50,0,22050,425250
+1987,Oceania,Flood,2,0,1400,0,0,1400,0
+1987,Oceania,Landslide,2,20,0,0,0,0,0
+1987,Oceania,Storm,14,118,110138,6,1464,111608,163290
+1987,Oceania,Wildfire,2,0,260,0,0,260,0
+1988,Africa,Drought,16,400,7327000,0,0,7327000,0
+1988,Africa,Earthquake,6,16,4000,170,400,4570,0
+1988,Africa,Epidemic,26,22150,208964,0,0,208964,0
+1988,Africa,Flood,32,900,3634284,210,2692000,6326494,20400
+1988,Africa,"Insect infestation",34,0,0,0,0,0,0
+1988,Africa,Landslide,2,0,0,0,3000,3000,0
+1988,Africa,"Mass movement (dry)",2,62,0,0,0,0,0
+1988,Africa,Storm,8,322,30614,0,0,30614,314
+1988,Americas,Drought,12,0,0,0,0,0,1716800
+1988,Americas,Earthquake,4,10,1000,0,3100,4100,0
+1988,Americas,Epidemic,6,460,340,0,0,340,0
+1988,Americas,"Extreme temperature ",4,200,0,0,0,0,1200
+1988,Americas,Flood,54,2030,18341180,5094,77250,18423524,3088880
+1988,Americas,Landslide,4,204,10000,50,2000,12050,0
+1988,Americas,Storm,64,1376,4733464,15580,177000,4926044,5974572
+1988,Americas,"Volcanic activity",4,0,7800,0,0,7800,0
+1988,Asia,Drought,6,2800,101072000,0,0,101072000,1885774
+1988,Asia,Earthquake,18,4070,42733000,16744,534000,43283744,803000
+1988,Asia,Epidemic,8,7822,4000,0,0,4000,0
+1988,Asia,"Extreme temperature ",4,900,0,400,0,400,0
+1988,Asia,Flood,46,14012,188861882,5166,2241000,191108048,11262308
+1988,Asia,Landslide,20,1698,102610,2260,370,105240,0
+1988,Asia,"Mass movement (dry)",2,100,0,0,0,0,0
+1988,Asia,Storm,40,5048,32861812,3348,4232642,37097802,832032
+1988,Asia,"Volcanic activity",6,14,18140,0,5000,23140,0
+1988,Europe,Earthquake,6,50000,2201380,24050,1060000,3285430,28000000
+1988,Europe,"Extreme temperature ",4,188,0,0,0,0,0
+1988,Europe,Flood,8,32,8160,0,0,8160,1000000
+1988,Europe,Landslide,2,0,4000,0,0,4000,0
+1988,Oceania,Earthquake,2,2,0,0,1000,1000,0
+1988,Oceania,Flood,12,34,3916,0,0,3916,136110
+1988,Oceania,Landslide,2,2,0,0,6000,6000,0
+1988,Oceania,"Mass movement (dry)",2,152,2000,0,0,2000,0
+1988,Oceania,Storm,8,14,6200,0,7200,13400,40834
+1989,Africa,Drought,8,474,17720000,0,0,17720000,0
+1989,Africa,Earthquake,4,62,24000,568,100000,124568,56000
+1989,Africa,Epidemic,22,3068,46498,0,0,46498,0
+1989,Africa,Flood,24,178,2538182,600,200000,2738782,2200
+1989,Africa,Landslide,2,0,296,0,0,296,0
+1989,Africa,Storm,10,114,131092,1136,0,132228,230472
+1989,Americas,Earthquake,8,140,600,8214,4030,12844,11200000
+1989,Americas,Epidemic,4,208,194,0,0,194,0
+1989,Americas,"Extreme temperature ",2,168,0,0,0,0,0
+1989,Americas,Flood,28,614,1509860,0,668888,2178748,30000
+1989,Americas,Landslide,8,260,156000,120,2000,158120,0
+1989,Americas,"Mass movement (dry)",2,20,0,0,0,0,0
+1989,Americas,Storm,60,348,114420,448,115660,230528,16775600
+1989,Americas,Wildfire,4,2,50000,0,0,50000,8566400
+1989,Asia,Drought,2,0,10000000,0,0,10000000,0
+1989,Asia,Earthquake,22,526,242980,1424,297100,541504,436000
+1989,Asia,Epidemic,4,440,0,0,0,0,0
+1989,Asia,"Extreme temperature ",8,594,0,0,0,0,0
+1989,Asia,Flood,30,8544,202845084,22024,865428,203732536,5730000
+1989,Asia,"Insect infestation",2,0,0,0,0,0,0
+1989,Asia,Landslide,16,434,31324,642,4530,36496,682
+1989,Asia,"Mass movement (dry)",2,90,0,0,0,0,0
+1989,Asia,Storm,56,7928,99278384,34968,1976682,101290034,3443704
+1989,Asia,"Volcanic activity",2,0,6000,0,0,6000,0
+1989,Asia,Wildfire,2,0,0,0,0,0,0
+1989,Europe,Drought,4,0,6400000,0,0,6400000,3200000
+1989,Europe,Earthquake,2,548,24000,102,0,24102,49600
+1989,Europe,Flood,4,58,0,0,0,0,2030000
+1989,Europe,Landslide,4,196,0,0,5000,5000,846000
+1989,Europe,"Mass movement (dry)",2,0,16000,0,0,16000,0
+1989,Europe,Storm,10,110,0,0,0,0,0
+1989,Oceania,Earthquake,2,24,4000,230,0,4230,2000000
+1989,Oceania,Flood,6,38,308,0,0,308,0
+1989,Oceania,Storm,10,12,0,0,0,0,256822
+1990,Africa,Drought,12,0,16133800,0,0,16133800,3478
+1990,Africa,Earthquake,10,20,16000,12,0,16012,0
+1990,Africa,Epidemic,14,2708,12018,0,0,12018,0
+1990,Africa,"Extreme temperature ",2,0,2000000,0,0,2000000,94000
+1990,Africa,Flood,14,630,1318000,1000,65736,1384736,486160
+1990,Africa,Storm,2,4,0,0,0,0,786000
+1990,Americas,Drought,4,0,4966320,0,0,4966320,72000
+1990,Americas,Earthquake,14,410,153840,2298,88000,244138,66400
+1990,Americas,Epidemic,8,554,19712,0,0,19712,0
+1990,Americas,"Extreme temperature ",8,782,0,0,0,0,84500
+1990,Americas,Flood,46,440,435172,200,29000,464372,399400
+1990,Americas,Landslide,2,66,0,0,0,0,0
+1990,Americas,Storm,52,416,28336,0,0,28336,1451400
+1990,Americas,"Volcanic activity",2,0,8000,0,0,8000,0
+1990,Asia,Drought,2,0,508564,0,0,508564,128000
+1990,Asia,Earthquake,26,85186,4426508,222308,228012,4876828,17328500
+1990,Asia,Epidemic,12,1138,44000,0,0,44000,0
+1990,Asia,"Extreme temperature ",14,1166,0,0,0,0,0
+1990,Asia,Flood,48,3370,90780498,15426,605014,91400938,5559936
+1990,Asia,Landslide,4,102,0,0,0,0,0
+1990,Asia,"Mass movement (dry)",4,146,10000,230,0,10230,0
+1990,Asia,Storm,70,8296,31442000,5220,2652430,34099650,18859270
+1990,Asia,"Volcanic activity",2,66,20530,0,0,20530,16000
+1990,Asia,Wildfire,2,0,0,0,0,0,220000
+1990,Europe,Drought,6,0,12000000,0,0,12000000,13000000
+1990,Europe,Earthquake,24,90,0,2210,54000,56210,1000000
+1990,Europe,"Extreme temperature ",2,10,0,0,0,0,0
+1990,Europe,Flood,8,38,46416,0,0,46416,1888000
+1990,Europe,Landslide,2,28,0,0,0,0,0
+1990,Europe,"Mass movement (dry)",2,86,0,0,0,0,0
+1990,Europe,Storm,132,510,0,0,0,0,30580000
+1990,Europe,Wildfire,4,0,0,0,0,0,3170000
+1990,Oceania,Earthquake,12,0,0,4,0,4,0
+1990,Oceania,Epidemic,2,14,2400,0,0,2400,0
+1990,Oceania,Flood,4,24,12000,0,0,12000,547400
+1990,Oceania,Storm,18,20,352200,6,58004,410210,1519200
+1990,Oceania,Wildfire,2,0,0,0,0,0,0
+1991,Africa,Drought,18,0,45304000,0,0,45304000,2300000
+1991,Africa,Epidemic,36,26836,260798,100,0,260898,0
+1991,Africa,Flood,12,1044,4000000,44,300800,4300844,48000
+1991,Africa,"Mass movement (dry)",2,26,0,0,0,0,0
+1991,Africa,Storm,6,80,262000,600,253000,515600,0
+1991,Africa,"Volcanic activity",2,0,0,0,400,400,0
+1991,Africa,Wildfire,2,10,0,0,0,0,0
+1991,Americas,Drought,6,0,0,0,0,0,3070000
+1991,Americas,Earthquake,20,318,175680,3544,26390,205614,267000
+1991,Americas,Epidemic,28,22826,613684,159450,0,773134,0
+1991,Americas,"Extreme temperature ",2,50,0,0,0,0,0
+1991,Americas,Flood,44,192,1507000,164,130680,1637844,1768000
+1991,Americas,"Insect infestation",2,0,4000,0,0,4000,0
+1991,Americas,Landslide,10,540,130234,280,36542,167056,12800
+1991,Americas,"Mass movement (dry)",2,46,0,0,0,0,0
+1991,Americas,Storm,38,200,25400,200,400,26000,6120000
+1991,Americas,"Volcanic activity",6,0,248000,0,4800,252800,30000
+1991,Americas,Wildfire,8,56,0,0,600,600,5160000
+1991,Asia,Drought,8,4000,15000000,0,0,15000000,2000
+1991,Asia,Earthquake,26,4042,1073520,5966,145830,1225316,176000
+1991,Asia,Epidemic,22,11702,3344182,0,0,3344182,0
+1991,Asia,"Extreme temperature ",6,1570,900,0,0,900,0
+1991,Asia,Flood,82,10228,438860800,64646,10620148,449545594,18799276
+1991,Asia,Landslide,6,516,0,0,0,0,0
+1991,Asia,Storm,70,292110,43776310,301484,1799524,45877318,26472326
+1991,Asia,"Volcanic activity",10,1366,2107098,430,11600,2119128,444000
+1991,Asia,Wildfire,2,114,0,16,0,16,26400
+1991,Europe,Drought,2,0,0,0,0,0,0
+1991,Europe,Earthquake,12,548,193690,3010,328000,524700,3400000
+1991,Europe,"Extreme temperature ",8,50,0,0,0,0,1544000
+1991,Europe,Flood,10,240,98000,0,16000,114000,4420000
+1991,Europe,"Mass movement (dry)",2,100,0,0,0,0,0
+1991,Europe,Storm,10,178,0,0,0,0,1922000
+1991,Europe,"Volcanic activity",2,0,14000,0,0,14000,0
+1991,Europe,Wildfire,4,0,0,0,0,0,0
+1991,Oceania,Drought,2,0,0,0,0,0,946000
+1991,Oceania,Flood,6,0,496,0,0,496,0
+1991,Oceania,Landslide,2,400,0,0,10000,10000,0
+1991,Oceania,Storm,8,26,170780,0,18036,188816,559120
+1992,Africa,Drought,8,0,14863000,0,0,14863000,0
+1992,Africa,Earthquake,6,1122,119900,19980,50540,190420,2400000
+1992,Africa,Epidemic,20,4064,511120,0,0,511120,0
+1992,Africa,"Extreme temperature ",2,36,0,0,0,0,0
+1992,Africa,Flood,2,42,0,16,4500,4516,1800
+1992,Africa,"Insect infestation",2,0,0,0,0,0,0
+1992,Americas,Drought,4,0,4200000,0,0,4200000,500000
+1992,Americas,Earthquake,12,382,23038,2116,3000,28154,600000
+1992,Americas,Epidemic,18,2578,8466,0,0,8466,0
+1992,Americas,"Extreme temperature ",6,160,0,0,32000,32000,4156000
+1992,Americas,Flood,32,402,777850,640,419148,1197638,1916780
+1992,Americas,Landslide,4,158,0,320,1000,1320,800000
+1992,Americas,Storm,64,228,110000,210,579400,689610,69526000
+1992,Americas,"Volcanic activity",4,2,610000,150,0,610150,0
+1992,Americas,Wildfire,10,0,3300,0,1080,4380,830000
+1992,Asia,Drought,4,0,24000000,0,0,24000000,106400
+1992,Asia,Earthquake,26,6560,840336,12492,462076,1314904,2028300
+1992,Asia,Epidemic,14,2206,861788,0,0,861788,0
+1992,Asia,"Extreme temperature ",6,580,0,0,0,0,1900000
+1992,Asia,Flood,66,10152,29670478,503584,7555372,37729434,12186546
+1992,Asia,Landslide,10,1266,74000,0,76400,150400,59000
+1992,Asia,"Mass movement (dry)",8,646,2000,138,800,2938,0
+1992,Asia,Storm,62,2348,36041790,41208,177382,36260380,3405100
+1992,Asia,"Volcanic activity",4,0,83156,0,0,83156,0
+1992,Asia,Wildfire,2,112,0,0,100000,100000,12400
+1992,Europe,Drought,6,0,0,0,0,0,2377200
+1992,Europe,Earthquake,6,2,3000,90,0,3090,300000
+1992,Europe,Epidemic,2,40,0,0,0,0,0
+1992,Europe,Flood,16,34,72000,0,12000,84000,1620200
+1992,Europe,"Mass movement (dry)",2,0,3500,0,0,3500,5200
+1992,Europe,Storm,8,96,6000,0,0,6000,803200
+1992,Europe,Wildfire,4,132,0,0,0,0,0
+1992,Oceania,Drought,2,0,14000000,0,0,14000000,3000000
+1992,Oceania,Flood,2,0,180000,0,0,180000,0
+1992,Oceania,Storm,18,12,6540,1104,10000,17644,1462200
+1992,Oceania,"Volcanic activity",2,0,0,0,0,0,0
+1993,Africa,Drought,6,0,4693014,0,0,4693014,0
+1993,Africa,Earthquake,2,6,0,30,0,30,0
+1993,Africa,Epidemic,2,1026,8140,0,0,8140,0
+1993,Africa,Flood,20,222,525158,92,44160,569410,7420
+1993,Africa,Landslide,2,30,0,92,1300,1392,0
+1993,Africa,"Mass movement (dry)",2,68,600,0,0,600,0
+1993,Africa,Storm,8,48,3444,32,31318,34794,10330
+1993,Americas,Drought,4,0,0,0,0,0,0
+1993,Americas,Earthquake,10,26,12662,250,0,12912,15000
+1993,Americas,Epidemic,4,200,904716,0,0,904716,0
+1993,Americas,"Extreme temperature ",2,96,0,0,0,0,0
+1993,Americas,Flood,50,1880,2520660,184,139614,2660458,27553540
+1993,Americas,Landslide,10,984,152156,136,0,152292,1000000
+1993,Americas,"Mass movement (dry)",2,150,4500,72,250,4822,0
+1993,Americas,Storm,64,976,665360,1610,71600,738570,15704114
+1993,Americas,"Volcanic activity",4,32,700,12,0,712,0
+1993,Americas,Wildfire,4,6,0,260,0,260,2000000
+1993,Asia,Drought,4,0,2350000,0,0,2350000,4000
+1993,Asia,Earthquake,18,20026,254504,62314,75960,392778,3276000
+1993,Asia,Epidemic,2,76,11320,0,0,11320,0
+1993,Asia,Flood,66,9868,293652218,1898,473896,294128012,34404726
+1993,Asia,"Insect infestation",6,0,0,0,0,0,0
+1993,Asia,Landslide,28,1324,34130,254,123314,157698,936980
+1993,Asia,"Mass movement (dry)",4,344,0,0,0,0,0
+1993,Asia,Storm,104,4744,25946098,21244,1175460,27142802,8762772
+1993,Asia,"Volcanic activity",8,166,232764,42,114000,346806,976
+1993,Europe,Drought,4,0,20000,0,0,20000,0
+1993,Europe,Earthquake,4,2,4200,42,0,4242,0
+1993,Europe,"Extreme temperature ",4,82,400,120,0,520,0
+1993,Europe,Flood,28,328,994000,906,0,994906,3756000
+1993,Europe,Landslide,2,478,0,0,0,0,0
+1993,Europe,"Mass movement (dry)",2,120,0,0,0,0,0
+1993,Europe,Storm,26,74,1575400,40,400,1575840,4074720
+1993,Oceania,Earthquake,6,116,20000,582,20000,40582,250000
+1993,Oceania,"Extreme temperature ",2,34,6000000,1000,0,6001000,0
+1993,Oceania,Flood,4,2,58000,60,91000,149060,14200
+1993,Oceania,Storm,14,88,561000,146,64390,625536,215000
+1994,Africa,Drought,2,0,2400000,0,0,2400000,0
+1994,Africa,Earthquake,4,356,125000,578,0,125578,140000
+1994,Africa,Epidemic,14,3762,13124428,0,0,13124428,0
+1994,Africa,Flood,36,2170,1117650,28,1216084,2333762,424238
+1994,Africa,Landslide,2,44,0,20,38,58,0
+1994,Africa,Storm,16,980,5001600,4102,1092000,6097702,291200
+1994,Africa,Wildfire,2,44,0,0,0,0,0
+1994,Americas,Drought,16,0,250000,0,0,250000,80000
+1994,Americas,Earthquake,8,672,25372,14316,89594,129282,60009000
+1994,Americas,"Extreme temperature ",2,0,0,0,0,0,950000
+1994,Americas,Flood,24,720,307438,500,72912,380850,1506000
+1994,Americas,Landslide,6,36,330250,36,1000,331286,0
+1994,Americas,Storm,34,2594,3179876,908,265940,3446724,2193936
+1994,Americas,"Volcanic activity",4,0,151400,0,0,151400,0
+1994,Americas,Wildfire,12,74,8800,4,60,8864,4000
+1994,Asia,Drought,6,0,187380000,0,0,187380000,27710400
+1994,Asia,Earthquake,32,1434,1275078,10588,28630,1314296,696352
+1994,Asia,Epidemic,4,1106,26300,0,0,26300,0
+1994,Asia,"Extreme temperature ",8,588,16000,0,0,16000,0
+1994,Asia,Flood,78,10234,242004226,45042,13117792,255167060,16972974
+1994,Asia,Landslide,14,534,211724,76,74954,286754,124600
+1994,Asia,Storm,80,4766,56278370,16648,2459714,58754732,5944848
+1994,Asia,"Volcanic activity",6,192,9400,44,0,9444,0
+1994,Asia,Wildfire,2,0,6000000,0,0,6000000,0
+1994,Europe,Earthquake,2,22,0,484,4200,4684,0
+1994,Europe,Epidemic,2,142,2666,0,0,2666,0
+1994,Europe,"Extreme temperature ",4,84,0,0,0,0,0
+1994,Europe,Flood,36,418,1662898,0,21458,1684356,22102400
+1994,Europe,Storm,24,84,124,372,61800,62296,2242000
+1994,Europe,Wildfire,6,42,33600,40,0,33640,0
+1994,Oceania,Drought,2,0,0,0,0,0,200000
+1994,Oceania,Earthquake,4,0,10000,10,40,10050,0
+1994,Oceania,"Extreme temperature ",4,10,2200000,368,0,2200368,0
+1994,Oceania,Flood,2,0,314,0,0,314,0
+1994,Oceania,Storm,8,54,5720000,188,640,5720828,155200
+1994,Oceania,"Volcanic activity",2,10,212000,4,92000,304004,220000
+1994,Oceania,Wildfire,4,8,90000,322,2000,92322,300000
+1995,Africa,Drought,8,0,3623988,0,0,3623988,0
+1995,Africa,Earthquake,2,20,0,138,0,138,0
+1995,Africa,Epidemic,12,7204,140230,0,0,140230,0
+1995,Africa,"Extreme temperature ",2,64,0,0,0,0,0
+1995,Africa,Flood,40,2492,1835866,0,703584,2539450,154600
+1995,Africa,"Insect infestation",2,0,0,0,0,0,0
+1995,Africa,Storm,4,0,1550,0,4000,5550,0
+1995,Africa,"Volcanic activity",2,0,2600,12,10000,12612,0
+1995,Africa,Wildfire,2,0,170,0,0,170,0
+1995,Americas,Drought,2,0,0,0,0,0,200000
+1995,Americas,Earthquake,18,250,141634,1084,33400,176118,45520
+1995,Americas,Epidemic,24,98,410814,0,0,410814,0
+1995,Americas,"Extreme temperature ",10,1522,70000,0,0,70000,20000
+1995,Americas,Flood,44,560,936560,110,240160,1176830,6665600
+1995,Americas,"Insect infestation",2,0,0,0,0,0,208000
+1995,Americas,Landslide,8,330,0,0,4000,4000,0
+1995,Americas,Storm,78,822,538814,762,147674,687250,38792800
+1995,Americas,"Volcanic activity",4,0,34000,0,0,34000,1444
+1995,Americas,Wildfire,4,0,13000,0,0,13000,179000
+1995,Asia,Drought,2,0,18120000,0,0,18120000,25600
+1995,Asia,Earthquake,26,11126,2866760,74402,704272,3645434,200652480
+1995,Asia,Epidemic,8,1120,44504,0,0,44504,0
+1995,Asia,"Extreme temperature ",4,1356,0,0,0,0,0
+1995,Asia,Flood,90,12842,375104906,142038,4491270,379738214,47194188
+1995,Asia,"Insect infestation",4,0,400,0,0,400,0
+1995,Asia,Landslide,18,2610,31030,804,2232790,2264624,61000
+1995,Asia,Storm,52,6324,23418544,14438,3085200,26518182,4336268
+1995,Asia,"Volcanic activity",2,0,0,0,5000,5000,0
+1995,Asia,Wildfire,6,58,400,80,6000,6480,90000
+1995,Europe,Earthquake,6,4082,45000,1820,12600,59420,1873600
+1995,Europe,Epidemic,6,434,311236,0,0,311236,0
+1995,Europe,"Extreme temperature ",8,516,0,356,0,356,1648600
+1995,Europe,Flood,14,18,3418000,0,10000,3428000,1097200
+1995,Europe,Landslide,6,102,126,40,0,166,11578
+1995,Europe,Storm,20,364,574300,20,2400,576720,6427200
+1995,Europe,Wildfire,2,0,4000,28,0,4028,0
+1995,Oceania,"Extreme temperature ",2,2,1000000,200,0,1000200,0
+1995,Oceania,Storm,8,16,863000,138,400,863538,457400
+1995,Oceania,"Volcanic activity",2,0,140,0,0,140,0
+1996,Africa,Drought,8,0,6684000,0,0,6684000,0
+1996,Africa,Epidemic,58,32226,1288254,0,0,1288254,0
+1996,Africa,"Extreme temperature ",4,104,0,0,0,0,0
+1996,Africa,Flood,34,656,1142922,37262,169052,1349236,123720
+1996,Africa,Landslide,2,68,0,0,0,0,0
+1996,Africa,Storm,12,74,600460,0,40,600500,29000
+1996,Americas,Drought,2,0,0,0,0,0,2400000
+1996,Americas,Earthquake,6,96,140710,1534,72610,214854,14000
+1996,Americas,Epidemic,2,124,6000,0,0,6000,0
+1996,Americas,Flood,42,292,1202442,0,233400,1435842,7461200
+1996,Americas,Landslide,12,432,14350,210,220,14780,0
+1996,Americas,Storm,60,1044,2168068,428,172692,2341188,8260660
+1996,Americas,"Volcanic activity",4,0,9486,0,0,9486,0
+1996,Americas,Wildfire,4,2,0,100,0,100,17000
+1996,Asia,Drought,2,0,0,0,0,0,1084800
+1996,Asia,Earthquake,16,1056,7019250,35838,3703420,10758508,1130800
+1996,Asia,Epidemic,26,1410,98766,0,0,98766,0
+1996,Asia,"Extreme temperature ",4,464,0,0,0,0,0
+1996,Asia,Flood,76,15062,351959056,468340,9608720,362036116,46802480
+1996,Asia,Landslide,24,1548,1000,316,500,1816,0
+1996,Asia,Storm,58,8012,51231502,84762,26528,51342792,11291540
+1996,Asia,Wildfire,4,50,11000,122,0,11122,3425600
+1996,Europe,Earthquake,4,0,3000,0,4000,7000,0
+1996,Europe,Epidemic,4,14,1186,0,0,1186,0
+1996,Europe,"Extreme temperature ",2,32,0,400,0,400,0
+1996,Europe,Flood,28,74,505980,0,400,506380,1934000
+1996,Europe,Landslide,6,168,800,258,0,1058,40000
+1996,Europe,Storm,10,16,24120,0,0,24120,735020
+1996,Europe,"Volcanic activity",2,0,0,0,0,0,33000
+1996,Europe,Wildfire,2,38,0,0,1200,1200,0
+1996,Oceania,Flood,4,10,25400,52,1000,26452,672600
+1996,Oceania,Landslide,4,94,200,18,0,218,0
+1996,Oceania,Storm,14,16,1247000,152,2460,1249612,1199066
+1996,Oceania,"Volcanic activity",4,8,3600,58,0,3658,0
+1997,Africa,Drought,12,0,6154200,0,0,6154200,0
+1997,Africa,Earthquake,2,30,0,92,0,92,0
+1997,Africa,Epidemic,72,19806,581246,0,0,581246,0
+1997,Africa,Flood,36,6044,6206906,62,496440,6703408,31000
+1997,Africa,"Insect infestation",2,0,0,0,0,0,7000
+1997,Africa,Landslide,2,40,0,0,0,0,0
+1997,Africa,Storm,8,384,1040000,120,160000,1200120,102100
+1997,Africa,Wildfire,2,0,0,0,0,0,0
+1997,Americas,Drought,8,0,1862400,0,0,1862400,62000
+1997,Americas,Earthquake,10,178,114000,1566,33030,148596,308000
+1997,Americas,Epidemic,10,44,55262,0,0,55262,0
+1997,Americas,"Extreme temperature ",4,584,0,0,0,0,8000
+1997,Americas,Flood,44,988,1320314,630,186818,1507762,15986174
+1997,Americas,Landslide,4,624,60000,0,0,60000,0
+1997,Americas,Storm,68,1972,2684150,2610,105000,2791760,5423600
+1997,Americas,"Volcanic activity",6,104,8000,0,400,8400,16000
+1997,Americas,Wildfire,10,20,7800,0,0,7800,5000
+1997,Asia,Drought,6,1344,8130000,0,0,8130000,1328200
+1997,Asia,Earthquake,30,5882,1762010,19048,588060,2369118,558886
+1997,Asia,Epidemic,32,1498,113578,0,0,113578,0
+1997,Asia,"Extreme temperature ",12,346,1404360,0,0,1404360,58000
+1997,Asia,Flood,72,8072,79025756,52670,1083666,80162092,6184692
+1997,Asia,Landslide,16,842,3054,150,4588,7792,0
+1997,Asia,Storm,56,9582,21742086,31604,3514090,25287780,8895440
+1997,Asia,"Volcanic activity",2,2,6000,0,0,6000,0
+1997,Asia,Wildfire,6,480,80000,140,0,80140,16600000
+1997,Europe,Drought,6,0,0,0,0,0,1640000
+1997,Europe,Earthquake,2,28,0,200,76000,76200,9049800
+1997,Europe,Epidemic,8,0,13256,0,0,13256,0
+1997,Europe,"Extreme temperature ",10,278,20000,0,0,20000,0
+1997,Europe,Flood,34,266,533346,4818,392778,930942,13566000
+1997,Europe,Landslide,2,58,0,10,100,110,32600
+1997,Europe,Storm,14,204,42910,290,1000,44200,194000
+1997,Europe,Wildfire,8,28,2500,18,0,2518,0
+1997,Oceania,Drought,4,120,1000000,0,0,1000000,0
+1997,Oceania,Earthquake,2,200,0,0,0,0,0
+1997,Oceania,Epidemic,2,0,246,0,0,246,0
+1997,Oceania,Flood,4,0,1200,0,0,1200,0
+1997,Oceania,Landslide,2,38,0,0,0,0,0
+1997,Oceania,Storm,12,158,11480,440,31000,42920,454000
+1997,Oceania,Wildfire,6,4,16000,0,0,16000,13400
+1998,Africa,Drought,16,24,473400,0,0,473400,36400
+1998,Africa,Epidemic,68,17474,238514,0,0,238514,0
+1998,Africa,Flood,42,544,6019578,0,528500,6548078,121696
+1998,Africa,"Insect infestation",2,0,0,0,0,0,3400
+1998,Africa,Landslide,2,174,0,0,5000,5000,0
+1998,Africa,Storm,2,36,0,320,0,320,330000
+1998,Africa,Wildfire,6,150,2400,0,600,3000,0
+1998,Americas,Drought,10,0,21840000,0,0,21840000,990000
+1998,Americas,Earthquake,6,196,25150,186,15320,40656,0
+1998,Americas,Epidemic,34,176,514204,0,0,514204,0
+1998,Americas,"Extreme temperature ",4,460,0,0,0,0,8550000
+1998,Americas,Flood,36,1108,942800,0,31000,973800,5551400
+1998,Americas,Landslide,12,544,5200,76,240,5516,0
+1998,Americas,Storm,82,39694,8854414,26744,250558,9131716,48159080
+1998,Americas,"Volcanic activity",6,0,3616,0,0,3616,0
+1998,Americas,Wildfire,16,106,122064,248,130,122442,650200
+1998,Asia,Drought,6,16,5210000,0,0,5210000,0
+1998,Asia,Earthquake,42,14566,6778920,38706,468100,7285726,2296200
+1998,Asia,Epidemic,42,7984,1089362,0,0,1089362,0
+1998,Asia,"Extreme temperature ",8,5626,68000,200,0,68200,0
+1998,Asia,Flood,70,19332,543715132,247340,35324516,579286988,78657688
+1998,Asia,Landslide,22,1200,400260,422,6000,406682,1780000
+1998,Asia,Storm,64,10032,30284416,14972,22091772,52391160,9172182
+1998,Asia,"Volcanic activity",2,0,12000,0,0,12000,0
+1998,Asia,Wildfire,8,10,4600,0,0,4600,2608000
+1998,Europe,Drought,2,0,0,0,0,0,0
+1998,Europe,Earthquake,10,20,6000,210,3400,9610,144000
+1998,Europe,"Extreme temperature ",12,452,4000,572,0,4572,0
+1998,Europe,Flood,26,282,362980,582,122192,485754,2609518
+1998,Europe,Landslide,4,338,6926,42,438,7406,57400
+1998,Europe,Storm,22,108,507380,350,0,507730,3656100
+1998,Europe,Wildfire,6,34,201200,0,1966,203166,1974216
+1998,Oceania,Drought,6,0,585270,0,0,585270,0
+1998,Oceania,Earthquake,2,4364,18398,1336,0,19734,0
+1998,Oceania,Epidemic,2,228,0,0,0,0,0
+1998,Oceania,Flood,14,40,30750,0,0,30750,918000
+1998,Oceania,Landslide,4,26,1000,22,0,1022,0
+1998,Oceania,Storm,6,0,11942,0,0,11942,0
+1999,Africa,Drought,16,412,65439090,0,0,65439090,2150000
+1999,Africa,Earthquake,2,44,0,350,30000,30350,121858
+1999,Africa,Epidemic,98,11002,1998642,0,0,1998642,0
+1999,Africa,Flood,68,790,2229362,62,753674,2983098,111830
+1999,Africa,Storm,18,654,219326,3000,70920,293246,50000
+1999,Africa,"Volcanic activity",2,0,5000,0,1020,6020,0
+1999,Africa,Wildfire,2,8,0,10,6000,6010,0
+1999,Americas,Drought,8,24,210000,0,0,210000,2900000
+1999,Americas,Earthquake,14,2470,1779410,18196,906910,2704516,4497932
+1999,Americas,Epidemic,8,104,5152,0,0,5152,0
+1999,Americas,"Extreme temperature ",4,544,0,0,0,0,2000000
+1999,Americas,Flood,46,61736,3808904,8938,1059498,4877340,7234206
+1999,Americas,Landslide,8,224,400,18,8800,9218,0
+1999,Americas,Storm,70,522,6584516,1992,79634,6666142,26856100
+1999,Americas,"Volcanic activity",8,0,56690,0,4400,61090,0
+1999,Americas,Wildfire,20,8,11600,0,8038,19638,744000
+1999,Asia,Drought,18,286,132258000,0,0,132258000,7244000
+1999,Asia,Earthquake,40,40912,8691510,120382,1885890,10697782,70314988
+1999,Asia,Epidemic,34,1386,226768,0,0,226768,0
+1999,Asia,"Extreme temperature ",4,302,0,0,0,0,0
+1999,Asia,Flood,92,6872,283689392,50474,5777068,289516934,20192442
+1999,Asia,Landslide,16,472,0,44,140,184,0
+1999,Asia,Storm,66,22804,33755358,19780,2438090,36213228,17782646
+1999,Asia,Wildfire,12,122,0,0,8000,8000,10600
+1999,Europe,Drought,2,0,0,0,0,0,6400000
+1999,Europe,Earthquake,8,288,238062,4080,10696,252838,8489808
+1999,Europe,Epidemic,12,92,16108,0,0,16108,0
+1999,Europe,"Extreme temperature ",8,696,1450000,492,0,1450492,0
+1999,Europe,Flood,34,212,685790,60,32214,718064,3599520
+1999,Europe,Landslide,12,194,20400,0,780,21180,1498200
+1999,Europe,Storm,44,458,7004200,72,1880,7006152,37584850
+1999,Europe,Wildfire,8,0,0,0,12,12,226672
+1999,Oceania,Drought,2,0,168000,0,0,168000,0
+1999,Oceania,Earthquake,2,24,24000,200,4000,28200,0
+1999,Oceania,Epidemic,2,2,594,0,0,594,0
+1999,Oceania,Flood,4,4,700,0,76000,76700,86456
+1999,Oceania,Storm,14,102,20000,50,4888,24938,4399600
+1999,Oceania,Wildfire,2,2,4000,0,0,4000,0
+2000,Africa,Drought,6,42,6862580,0,0,6862580,0
+2000,Africa,Earthquake,2,2,1500,12,70,1582,0
+2000,Africa,Epidemic,126,10474,1768000,200,0,1768200,0
+2000,Africa,"Extreme temperature ",4,6,0,210,0,210,1618
+2000,Africa,Flood,74,2382,10756964,72,669200,11426236,1349710
+2000,Africa,Landslide,8,98,0,0,930,930,0
+2000,Africa,Storm,26,392,2213116,240,25700,2239056,20000
+2000,Africa,Wildfire,4,0,2000,10,500,2510,20000
+2000,Americas,Drought,14,0,42250,0,0,42250,2212000
+2000,Americas,Earthquake,8,18,54430,226,11508,66164,100000
+2000,Americas,Epidemic,6,64,200862,0,0,200862,0
+2000,Americas,"Extreme temperature ",16,288,51954,0,0,51954,20000
+2000,Americas,Flood,78,990,620374,244,263402,884020,1234600
+2000,Americas,"Insect infestation",2,0,0,0,0,0,0
+2000,Americas,Landslide,12,264,700,110,286360,287170,150000
+2000,Americas,Storm,44,330,228856,1996,9630,240482,3316120
+2000,Americas,"Volcanic activity",4,0,83600,0,0,83600,0
+2000,Americas,Wildfire,18,44,70800,4,1370,72174,5000000
+2000,Asia,Drought,26,114,155546000,0,0,155546000,3782330
+2000,Asia,Earthquake,42,410,4131568,13448,694542,4839558,1399966
+2000,Asia,Epidemic,74,3368,177700,0,0,177700,0
+2000,Asia,"Extreme temperature ",18,764,0,1424,0,1424,2000
+2000,Asia,Flood,90,8492,134430098,2634,652672,135085404,19845604
+2000,Asia,Landslide,26,1538,127770,322,9290,137382,114000
+2000,Asia,"Mass movement (dry)",2,22,0,0,0,0,0
+2000,Asia,Storm,96,1836,21594220,4940,854472,22453632,17739740
+2000,Asia,"Volcanic activity",6,0,169652,0,0,169652,4428
+2000,Asia,Wildfire,10,4,0,30,2380,2410,0
+2000,Europe,Drought,8,4,0,0,0,0,1316000
+2000,Europe,Earthquake,8,0,1458,18,38338,39814,49840
+2000,Europe,Epidemic,16,4,9636,0,0,9636,0
+2000,Europe,"Extreme temperature ",24,824,0,1784,0,1784,716700
+2000,Europe,Flood,68,178,412082,68,862,413012,28645090
+2000,Europe,Landslide,10,124,4800,22,0,4822,660000
+2000,Europe,Storm,30,148,5335000,1466,1120,5337586,3543300
+2000,Europe,Wildfire,26,46,0,72,504,576,97826
+2000,Oceania,Earthquake,2,4,0,0,10000,10000,0
+2000,Oceania,Epidemic,4,50,7298,0,0,7298,0
+2000,Oceania,Flood,6,8,1200,0,0,1200,532000
+2000,Oceania,"Insect infestation",2,0,0,0,0,0,240000
+2000,Oceania,Storm,8,2,2700,0,0,2700,300000
+2000,Oceania,Wildfire,2,0,400,0,0,400,0
+2001,Africa,Drought,24,116,25109116,0,0,25109116,0
+2001,Africa,Earthquake,2,0,0,0,1400,1400,0
+2001,Africa,Epidemic,108,16394,334514,0,0,334514,0
+2001,Africa,Flood,72,3184,5671876,1082,31604,5704562,709076
+2001,Africa,Landslide,6,72,6712,20,300,7032,0
+2001,Africa,Storm,12,36,2600,82,9200,11882,0
+2001,Africa,"Volcanic activity",2,0,0,0,0,0,0
+2001,Africa,Wildfire,4,62,0,0,0,0,0
+2001,Americas,Drought,10,82,3793192,0,0,3793192,72800
+2001,Americas,Earthquake,14,2634,3618156,22514,249730,3890400,8297100
+2001,Americas,Epidemic,2,2,798,0,0,798,0
+2001,Americas,"Extreme temperature ",8,158,9700,10,0,9710,0
+2001,Americas,Flood,58,530,1490904,494,29738,1521136,2207800
+2001,Americas,Landslide,6,228,0,64,300,364,0
+2001,Americas,Storm,84,450,12258832,1208,221936,12481976,14982834
+2001,Americas,"Volcanic activity",2,0,45540,0,0,45540,21950
+2001,Americas,Wildfire,12,4,2658,20,0,2678,0
+2001,Asia,Drought,10,0,35260000,0,0,35260000,0
+2001,Asia,Earthquake,30,40062,10958454,336810,4234500,15529764,6429000
+2001,Asia,Epidemic,20,608,137260,0,0,137260,0
+2001,Asia,"Extreme temperature ",16,1076,400000,4024,0,404024,20
+2001,Asia,Flood,124,6086,59776822,7890,593920,60378632,3366648
+2001,Asia,"Insect infestation",2,0,0,0,0,0,0
+2001,Asia,Landslide,36,1272,63238,150,71290,134678,141200
+2001,Asia,Storm,88,3252,50461886,182376,781224,51425486,12812990
+2001,Asia,"Volcanic activity",4,0,166442,0,0,166442,5160
+2001,Europe,Earthquake,2,0,600,0,0,600,0
+2001,Europe,Epidemic,6,26,1902,0,0,1902,0
+2001,Europe,"Extreme temperature ",20,2340,12000,588,0,12588,200
+2001,Europe,Flood,50,220,1490552,8,400,1490960,2768700
+2001,Europe,"Insect infestation",2,0,0,0,0,0,0
+2001,Europe,Storm,16,80,24600,296,800,25696,1128400
+2001,Europe,"Volcanic activity",2,0,0,0,0,0,6200
+2001,Europe,Wildfire,8,0,0,0,0,0,0
+2001,Oceania,Earthquake,2,0,0,2,400,402,0
+2001,Oceania,Epidemic,2,0,2790,0,0,2790,0
+2001,Oceania,"Extreme temperature ",2,0,0,0,0,0,400000
+2001,Oceania,Flood,10,8,7940,62,0,8002,453000
+2001,Oceania,Storm,16,10,35858,54,590,36502,115800
+2001,Oceania,"Volcanic activity",2,0,9000,0,0,9000,0
+2001,Oceania,Wildfire,4,0,8800,0,0,8800,180000
+2002,Africa,Drought,20,1176,11886870,0,0,11886870,0
+2002,Africa,Earthquake,6,94,3570,216,4000,7786,0
+2002,Africa,Epidemic,98,9656,1188760,0,0,1188760,0
+2002,Africa,"Extreme temperature ",2,120,0,0,0,0,0
+2002,Africa,Flood,64,960,1929208,310,97600,2027118,484958
+2002,Africa,Landslide,2,32,0,0,0,0,0
+2002,Africa,Storm,28,178,1262200,3272,25800,1291272,228444
+2002,Africa,"Volcanic activity",2,400,0,800,220000,220800,18000
+2002,Africa,Wildfire,4,8,0,1000,3500,4500,0
+2002,Americas,Drought,10,0,207000,0,0,207000,7020000
+2002,Americas,Earthquake,2,0,1000,54,400,1454,0
+2002,Americas,Epidemic,18,576,661474,0,0,661474,0
+2002,Americas,"Extreme temperature ",8,128,50400,0,0,50400,0
+2002,Americas,Flood,82,752,1959048,446,23350,1982844,2910100
+2002,Americas,Landslide,8,450,0,28,7920,7948,22000
+2002,Americas,"Mass movement (dry)",2,120,0,0,0,0,0
+2002,Americas,Storm,70,616,1921674,1264,30264,1953202,14393660
+2002,Americas,"Volcanic activity",8,0,299900,0,0,299900,0
+2002,Americas,Wildfire,24,0,40200,22,5954,46176,624200
+2002,Asia,Drought,16,0,743020000,0,0,743020000,4722950
+2002,Asia,Earthquake,48,3108,1557156,8778,91668,1657602,1543428
+2002,Asia,Epidemic,38,7002,538644,0,0,538644,0
+2002,Asia,"Extreme temperature ",14,5620,100000,7448,0,107448,0
+2002,Asia,Flood,118,6008,329240602,74214,61734,329376550,11327934
+2002,Asia,Landslide,22,1394,533280,288,67044,600612,3000
+2002,Asia,Storm,86,1714,218765858,3070,24208,218793136,9040200
+2002,Asia,"Volcanic activity",2,0,10000,0,0,10000,0
+2002,Asia,Wildfire,8,0,444,400,0,844,0
+2002,Europe,Drought,2,0,0,0,0,0,0
+2002,Europe,Earthquake,10,66,300,318,19000,19618,2592000
+2002,Europe,Epidemic,10,6,22746,0,0,22746,0
+2002,Europe,"Extreme temperature ",6,870,50000,124,0,50124,0
+2002,Europe,Flood,76,752,2134294,2818,11220,2148332,38927030
+2002,Europe,Landslide,6,252,562,0,0,562,360000
+2002,Europe,Storm,44,166,251100,72,0,251172,5568400
+2002,Europe,Wildfire,6,0,0,0,240,240,0
+2002,Oceania,Drought,2,0,0,0,0,0,4000000
+2002,Oceania,Earthquake,8,10,10800,146,2000,12946,0
+2002,Oceania,Epidemic,4,284,4430,0,0,4430,0
+2002,Oceania,Flood,4,0,6600,2,0,6602,1000
+2002,Oceania,Landslide,2,72,326,22,0,348,0
+2002,Oceania,Storm,18,96,22928,316,13368,36612,261000
+2002,Oceania,"Volcanic activity",2,0,26000,0,0,26000,0
+2002,Oceania,Wildfire,2,4,0,8,480,488,100000
+2003,Africa,Drought,10,18,31239000,0,0,31239000,0
+2003,Africa,Earthquake,4,4550,0,20922,400000,420922,10000000
+2003,Africa,Epidemic,50,5464,162222,0,0,162222,0
+2003,Africa,"Extreme temperature ",2,80,0,0,0,0,0
+2003,Africa,Flood,80,848,2720730,250,152480,2873460,1073140
+2003,Africa,Landslide,2,40,0,0,200,200,0
+2003,Africa,Storm,22,304,291282,5376,137846,434504,0
+2003,Americas,Drought,4,0,70000,0,0,70000,240000
+2003,Americas,Earthquake,12,76,361180,2556,920,364656,632600
+2003,Americas,Epidemic,8,774,100874,0,0,100874,0
+2003,Americas,"Extreme temperature ",4,720,3679776,0,0,3679776,0
+2003,Americas,Flood,83,1106,1268180,1596,473760,1743536,3109860
+2003,Americas,Landslide,11,304,3620,92,720,4432,0
+2003,Americas,Storm,44,414,496190,744,30962,527896,31259200
+2003,Americas,"Volcanic activity",4,0,50000,0,0,50000,0
+2003,Americas,Wildfire,14,38,54000,288,2070,56358,8090000
+2003,Asia,Drought,6,0,102030000,0,0,102030000,2000
+2003,Asia,Earthquake,58,54602,6650012,63062,886108,7599182,4729198
+2003,Asia,Epidemic,36,804,9044,0,0,9044,0
+2003,Asia,"Extreme temperature ",12,4146,0,400,0,400,800000
+2003,Asia,Flood,114,5766,331036530,304450,2893462,334234442,31484296
+2003,Asia,Landslide,26,1044,910554,764,106,911424,103922
+2003,Asia,Storm,68,1238,20327344,13196,812946,21153486,10466480
+2003,Asia,Wildfire,2,0,0,0,600,600,0
+2003,Europe,Drought,8,0,2125150,0,0,2125150,1140000
+2003,Europe,Earthquake,6,6,460,114,3600,4174,1143904
+2003,Europe,Epidemic,20,2,56,0,0,56,0
+2003,Europe,"Extreme temperature ",32,144450,0,0,0,0,24240000
+2003,Europe,Flood,30,36,69572,0,1200,70772,5810000
+2003,Europe,Storm,14,56,0,154,0,154,610100
+2003,Europe,Wildfire,12,48,306400,8,0,306408,3500000
+2003,Oceania,Epidemic,6,0,888,0,0,888,0
+2003,Oceania,Flood,10,14,940,6,0,946,254000
+2003,Oceania,Landslide,4,26,1200,42,0,1242,0
+2003,Oceania,Storm,22,44,64630,200,4360,69190,332000
+2003,Oceania,Wildfire,2,8,5000,300,0,5300,600000
+2004,Africa,Drought,10,160,35558000,0,0,35558000,0
+2004,Africa,Earthquake,16,1886,219120,3048,25458,247626,1260000
+2004,Africa,Epidemic,56,4754,181082,0,0,181082,0
+2004,Africa,Flood,52,534,1485380,1292,126796,1613468,0
+2004,Africa,"Insect infestation",22,0,0,0,0,0,0
+2004,Africa,Storm,14,824,1558050,2266,549900,2110216,500000
+2004,Africa,Wildfire,2,0,0,0,1554,1554,0
+2004,Americas,Drought,10,0,385000,0,0,385000,3306278
+2004,Americas,Earthquake,10,20,16942,70,1130,18142,0
+2004,Americas,"Extreme temperature ",16,224,678934,3600000,0,4278934,0
+2004,Americas,Flood,50,7206,1264792,748,16584,1282124,1418940
+2004,Americas,Landslide,6,84,13902,48,140,14090,0
+2004,Americas,Storm,88,6186,12356660,5532,119522,12481714,128130160
+2004,Americas,Wildfire,6,0,30400,10,564,30974,0
+2004,Asia,Earthquake,52,452672,3604718,94312,2327826,6026856,76236000
+2004,Asia,Epidemic,16,1736,147024,200,0,147224,0
+2004,Asia,"Extreme temperature ",6,118,0,600,0,600,0
+2004,Asia,Flood,112,6152,229410406,29698,770836,230210940,18410502
+2004,Asia,Landslide,24,542,10400,104,160,10664,7000
+2004,Asia,"Mass movement (dry)",2,88,0,26,680,706,0
+2004,Asia,Storm,104,6168,26721498,29480,1205368,27956346,37519970
+2004,Asia,"Volcanic activity",8,4,85656,210,0,85866,0
+2004,Asia,Wildfire,2,0,4000,0,310,4310,0
+2004,Europe,Drought,2,0,0,0,0,0,2676272
+2004,Europe,Earthquake,6,2,1776,10,0,1786,44000
+2004,Europe,"Extreme temperature ",10,168,0,226,0,226,0
+2004,Europe,Flood,30,62,836324,16,18,836358,341634
+2004,Europe,Storm,24,72,37800,172,0,37972,1718600
+2004,Europe,Wildfire,6,28,2000,200,2000,4200,6000
+2004,Oceania,Flood,14,14,39140,0,0,39140,595000
+2004,Oceania,"Insect infestation",2,0,0,0,0,0,0
+2004,Oceania,Storm,26,56,172690,156,7000,179846,510000
+2004,Oceania,"Volcanic activity",2,0,19200,0,0,19200,0
+2005,Africa,Drought,30,322,41428000,0,0,41428000,0
+2005,Africa,Earthquake,6,20,10000,126,3000,13126,40000
+2005,Africa,Epidemic,78,5900,543936,0,0,543936,0
+2005,Africa,Flood,64,794,1250522,120,218176,1468818,28246
+2005,Africa,Storm,12,216,1780,48,27246,29074,100
+2005,Africa,"Volcanic activity",6,2,586000,0,0,586000,0
+2005,Americas,Drought,4,0,105980,0,0,105980,0
+2005,Americas,Earthquake,8,34,61318,484,0,61802,10100
+2005,Americas,"Extreme temperature ",2,66,0,62,0,62,0
+2005,Americas,Flood,68,1090,2035774,842,25996,2062612,3290860
+2005,Americas,Landslide,4,140,5000,75,0,5075,0
+2005,Americas,Storm,90,7496,13611860,1030,613240,14226130,339609000
+2005,Americas,"Volcanic activity",4,4,4000,0,0,4000,0
+2005,Americas,Wildfire,10,10,6000,0,2820,8820,200000
+2005,Asia,Drought,10,0,17568000,0,0,17568000,924240
+2005,Asia,Earthquake,34,152426,1706402,293198,10300000,12299600,13360100
+2005,Asia,Epidemic,32,1868,320366,222,0,320588,0
+2005,Asia,"Extreme temperature ",16,1506,2000,1100,0,3100,0
+2005,Asia,Flood,168,9290,145128378,2876,1150436,146281690,22551394
+2005,Asia,Landslide,18,1134,13120,138,780,14038,110000
+2005,Asia,Storm,94,2652,82972578,12696,184000,83169274,17753822
+2005,Asia,"Volcanic activity",2,0,52000,0,0,52000,0
+2005,Asia,Wildfire,8,0,3600,0,680,4280,0
+2005,Europe,"Extreme temperature ",40,604,0,1330,0,1330,800000
+2005,Europe,Flood,78,326,223418,4,5290,228712,9748840
+2005,Europe,Landslide,2,18,0,0,0,0,0
+2005,Europe,Storm,52,116,814950,22,0,814972,12120000
+2005,Europe,Wildfire,6,56,0,274,0,274,7420000
+2005,Oceania,Earthquake,2,2,0,0,400,400,0
+2005,Oceania,Flood,8,8,10986,0,800,11786,260000
+2005,Oceania,Storm,14,20,3800,18,50,3868,104000
+2005,Oceania,"Volcanic activity",4,0,40000,0,0,40000,0
+2005,Oceania,Wildfire,2,27,400,40,0,440,74000
+2006,Africa,Drought,6,0,7514000,0,0,7514000,0
+2006,Africa,Earthquake,4,16,320,90,3180,3590,0
+2006,Africa,Epidemic,106,12704,372746,0,0,372746,0
+2006,Africa,Flood,112,2942,3960540,286,276404,4237230,457780
+2006,Africa,"Insect infestation",2,0,0,0,0,0,0
+2006,Africa,Landslide,2,48,4000,0,0,4000,0
+2006,Africa,Storm,10,16,175294,142,3808,179244,0
+2006,Africa,"Volcanic activity",2,0,0,0,0,0,0
+2006,Americas,Drought,2,0,0,0,0,0,0
+2006,Americas,Earthquake,4,0,39978,20,0,39998,300000
+2006,Americas,Epidemic,4,40,200560,0,0,200560,0
+2006,Americas,"Extreme temperature ",10,400,0,0,0,0,0
+2006,Americas,Flood,72,604,1625390,594,3310,1629294,3386600
+2006,Americas,Landslide,4,42,0,0,0,0,0
+2006,Americas,Storm,34,226,582730,532,0,583262,9461120
+2006,Americas,"Volcanic activity",12,10,640900,26,0,640926,300000
+2006,Americas,Wildfire,8,10,2872,36,534,3442,132000
+2006,Asia,Drought,6,268,40200000,0,0,40200000,5820000
+2006,Asia,Earthquake,36,13368,5681476,280680,1686800,7648956,6452906
+2006,Asia,Epidemic,10,60,15196,0,0,15196,0
+2006,Asia,"Extreme temperature ",4,262,0,200,0,200,0
+2006,Asia,Flood,198,8008,45515112,3514,8964170,54482796,11436654
+2006,Asia,Landslide,28,3148,662660,134,176600,839394,80292
+2006,Asia,"Mass movement (dry)",2,22,0,10,0,10,0
+2006,Asia,Storm,82,8364,132184242,26558,1223158,133433958,23559842
+2006,Asia,"Volcanic activity",4,0,109698,0,0,109698,0
+2006,Asia,Wildfire,2,0,0,400,0,400,28000
+2006,Europe,Drought,2,0,0,0,0,0,451146
+2006,Europe,Earthquake,4,0,25050,84,0,25134,110000
+2006,Europe,"Extreme temperature ",34,8990,100000,23308,0,123308,2000000
+2006,Europe,Flood,60,122,229524,4,10000,239528,323850
+2006,Europe,Landslide,2,8,300,18,0,318,0
+2006,Europe,Storm,18,52,2400,1204,0,3604,20000
+2006,Europe,Wildfire,2,8,0,0,0,0,1318000
+2006,Oceania,Drought,2,0,0,0,0,0,0
+2006,Oceania,Flood,10,10,5848,0,24000,29848,7000
+2006,Oceania,Landslide,4,30,600,0,20000,20600,0
+2006,Oceania,Storm,8,0,4336,60,14000,18396,2364708
+2006,Oceania,"Volcanic activity",6,0,6598,0,0,6598,0
+2006,Oceania,Wildfire,6,8,0,0,282,282,200000
+2007,Africa,Drought,12,0,8135500,0,0,8135500,0
+2007,Africa,Epidemic,48,9346,264646,0,0,264646,0
+2007,Africa,"Extreme temperature ",2,44,0,0,0,0,0
+2007,Africa,Flood,127,1863,8862488,1323,1209704,10073515,1028282
+2007,Africa,Landslide,2,40,0,12,0,12,0
+2007,Africa,Storm,18,224,746390,642,31000,778032,482400
+2007,Africa,"Volcanic activity",2,10,4000,0,0,4000,0
+2007,Africa,Wildfire,6,72,3000,0,3200,6200,0
+2007,Americas,Drought,4,0,2000000,0,0,2000000,600000
+2007,Americas,Earthquake,18,1214,1364830,3302,3730,1371862,1400000
+2007,Americas,Epidemic,2,2,456,0,0,456,0
+2007,Americas,"Extreme temperature ",10,164,1769144,0,0,1769144,0
+2007,Americas,Flood,78,1312,10629940,966,65698,10696604,9216000
+2007,Americas,Landslide,4,32,10000,0,0,10000,0
+2007,Americas,Storm,80,1474,1824464,1188,63296,1888948,16128252
+2007,Americas,"Volcanic activity",2,0,6000,0,0,6000,0
+2007,Americas,Wildfire,8,32,1550000,128,1854,1551982,5690000
+2007,Asia,Drought,4,0,0,0,0,0,0
+2007,Asia,Earthquake,18,238,1200316,8860,154936,1364112,27584000
+2007,Asia,Epidemic,22,1620,683634,0,0,683634,0
+2007,Asia,"Extreme temperature ",14,768,200000,6050,0,206050,0
+2007,Asia,Flood,186,13906,334518806,10972,563506,335093284,17806348
+2007,Asia,Landslide,14,470,7984,8,0,7992,0
+2007,Asia,Storm,58,9872,44710398,111878,113308,44935584,23701516
+2007,Asia,"Volcanic activity",8,12,91896,30,0,91926,0
+2007,Asia,Wildfire,2,2,0,30,0,30,0
+2007,Europe,Drought,2,0,420788,0,0,420788,812000
+2007,Europe,Earthquake,4,4,9000,26,15000,24026,960000
+2007,Europe,"Extreme temperature ",24,1196,704,278,0,982,0
+2007,Europe,Flood,38,94,756212,22,60000,816234,18447504
+2007,Europe,Storm,44,150,14336,298,4634,19268,18604000
+2007,Europe,Wildfire,20,190,2003786,206,7830,2011822,3504908
+2007,Oceania,Earthquake,2,104,4750,18,0,4768,0
+2007,Oceania,Flood,6,30,11800,0,0,11800,2674000
+2007,Oceania,Storm,10,350,326478,0,180,326658,201304
+2008,Africa,Drought,18,8,35885000,0,0,35885000,0
+2008,Africa,Earthquake,4,94,34710,1286,0,35996,14000
+2008,Africa,Epidemic,66,13436,484282,206,0,484488,0
+2008,Africa,Flood,94,1068,1990898,590,39558,2031046,698528
+2008,Africa,Landslide,2,20,0,40,0,40,0
+2008,Africa,"Mass movement (dry)",2,196,0,144,1250,1394,0
+2008,Africa,Storm,20,258,1017436,1368,505676,1524480,160000
+2008,Africa,Wildfire,4,166,0,96,6000,6096,860000
+2008,Americas,Drought,4,8,91000,0,0,91000,0
+2008,Americas,Earthquake,4,22,4200,114,3400,7714,20000
+2008,Americas,Epidemic,12,316,351720,0,0,351720,0
+2008,Americas,"Extreme temperature ",2,0,0,0,0,0,0
+2008,Americas,Flood,72,1250,31719600,580,77114,31797294,24115394
+2008,Americas,Landslide,6,152,0,32,0,32,0
+2008,Americas,"Mass movement (dry)",2,24,0,0,0,0,0
+2008,Americas,Storm,88,2078,7483530,1408,3260,7488198,99946396
+2008,Americas,"Volcanic activity",10,32,60702,14,0,60716,0
+2008,Americas,Wildfire,4,2,110000,40,600,110640,4000000
+2008,Asia,Drought,10,0,32160000,0,0,32160000,468000
+2008,Asia,Earthquake,34,175690,93528670,739798,830580,95099048,171558000
+2008,Asia,Epidemic,6,56,10286,0,0,10286,0
+2008,Asia,"Extreme temperature ",10,3064,158341004,364,0,158341368,43880000
+2008,Asia,Flood,130,5556,50458090,776,4978676,55437542,7444366
+2008,Asia,Landslide,16,836,10000,226,0,10226,0
+2008,Asia,Storm,84,279576,22178436,43912,36610,22258958,13579810
+2008,Asia,"Volcanic activity",2,0,1200,0,0,1200,0
+2008,Asia,Wildfire,2,4,0,0,600,600,0
+2008,Europe,Earthquake,4,30,17206,680,0,17886,0
+2008,Europe,"Extreme temperature ",6,218,0,1000,0,1000,0
+2008,Europe,Flood,18,130,486794,0,76,486870,2562000
+2008,Europe,Storm,26,42,6480,232,1200,7912,6760000
+2008,Oceania,Flood,18,14,168600,0,170,168770,4130000
+2008,Oceania,"Mass movement (dry)",2,20,0,0,0,0,0
+2008,Oceania,Storm,4,16,24000,0,0,24000,900000
+2008,Oceania,"Volcanic activity",2,0,18000,0,0,18000,0
+2009,Africa,Drought,10,0,41960000,0,0,41960000,0
+2009,Africa,Earthquake,4,8,0,372,41100,41472,0
+2009,Africa,Epidemic,54,7256,338672,2912,0,341584,0
+2009,Africa,Flood,90,1312,5115776,2214,48720,5166710,300000
+2009,Africa,"Insect infestation",2,0,1000000,0,0,1000000,0
+2009,Africa,Landslide,2,54,0,12,20000,20012,0
+2009,Africa,Storm,26,98,273158,26,38474,311658,46000
+2009,Africa,Wildfire,2,0,0,0,250,250,0
+2009,Americas,Drought,14,0,5705000,0,0,5705000,57400
+2009,Americas,Earthquake,4,76,357054,454,0,357508,600000
+2009,Americas,Epidemic,18,168,434112,0,0,434112,0
+2009,Americas,"Extreme temperature ",4,664,0,48524,0,48524,2200000
+2009,Americas,Flood,68,688,4871432,996,26820,4899248,2588446
+2009,Americas,Landslide,15,432,43280,64,1486,44830,175000
+2009,Americas,"Mass movement (dry)",2,72,4074,0,1982,6056,0
+2009,Americas,Storm,38,738,420394,498,30900,451792,23738000
+2009,Americas,Wildfire,4,4,0,58,852,910,200000
+2009,Asia,Drought,12,0,124926000,0,0,124926000,7200000
+2009,Asia,Earthquake,26,2730,5797948,9244,106520,5913712,6198380
+2009,Asia,Epidemic,6,1942,190804,0,0,190804,0
+2009,Asia,"Extreme temperature ",8,556,1638212,64,0,1638276,124000
+2009,Asia,Flood,104,5032,109122520,508,140000,109263028,10734816
+2009,Asia,Landslide,38,834,3566,100,20000,23666,278000
+2009,Asia,Storm,86,5650,99920502,20196,422370,100363068,15038710
+2009,Asia,"Volcanic activity",2,0,94274,0,0,94274,0
+2009,Europe,Earthquake,4,590,0,2000,110300,112300,5000000
+2009,Europe,"Extreme temperature ",34,826,20000,1534,0,21534,0
+2009,Europe,Flood,30,128,64980,288,10000,75268,1948000
+2009,Europe,Storm,18,82,360,188,0,548,13300000
+2009,Europe,Wildfire,10,16,1430,0,650,2080,230000
+2009,Oceania,Earthquake,6,372,16550,634,0,17184,319000
+2009,Oceania,Epidemic,8,384,17276,0,0,17276,0
+2009,Oceania,"Extreme temperature ",2,694,0,4000,0,4000,0
+2009,Oceania,Flood,10,80,55412,0,0,55412,386494
+2009,Oceania,Landslide,2,38,0,0,0,0,0
+2009,Oceania,Storm,6,6,38490,0,0,38490,146600
+2009,Oceania,"Volcanic activity",2,0,800,0,0,800,0
+2009,Oceania,Wildfire,2,360,18908,1000,0,19908,2600000
+2010,Africa,Drought,12,40000,15531752,0,0,15531752,0
+2010,Africa,Earthquake,2,4,0,86,0,86,0
+2010,Africa,Epidemic,52,5534,88276,0,0,88276,0
+2010,Africa,Flood,102,1278,8301142,2832,500980,8804954,118352
+2010,Africa,"Insect infestation",2,0,4600000,0,0,4600000,0
+2010,Africa,Landslide,14,980,25570,78,14460,40108,0
+2010,Africa,Storm,12,400,403060,344,3000,406404,0
+2010,Africa,Wildfire,2,16,0,0,5540,5540,0
+2010,Americas,Drought,14,0,249000,0,0,249000,229400
+2010,Americas,Earthquake,8,446268,10573644,621192,1600000,12794836,78325000
+2010,Americas,Epidemic,18,14360,808802,554902,0,1363704,0
+2010,Americas,"Extreme temperature ",14,1006,115500,0,0,115500,0
+2010,Americas,Flood,66,2498,9273790,2354,27000,9303144,3976000
+2010,Americas,Landslide,12,734,0,220,103280,103500,1000000
+2010,Americas,Storm,76,886,2557416,990,21796,2580202,31996200
+2010,Americas,"Volcanic activity",4,0,8600,0,0,8600,0
+2010,Americas,Wildfire,4,62,400,0,600,1000,0
+2010,Asia,Drought,4,0,82965204,0,0,82965204,4740000
+2010,Asia,Earthquake,34,7194,174816,26524,221468,422808,3011800
+2010,Asia,Epidemic,12,1666,13416,248160,0,261576,0
+2010,Asia,"Extreme temperature ",6,1040,30000,0,0,30000,0
+2010,Asia,Flood,124,12704,358731864,15424,813460,359560748,62708730
+2010,Asia,Landslide,38,5134,4774476,1076,650,4776202,1554156
+2010,Asia,Storm,60,1700,12251564,3844,1529240,13784648,4820112
+2010,Asia,"Volcanic activity",6,646,331812,910,0,332722,0
+2010,Asia,Wildfire,4,132,40000,50,0,40050,540000
+2010,Europe,Drought,2,0,0,0,0,0,2800000
+2010,Europe,Earthquake,2,4,50880,240,2940,54060,264520
+2010,Europe,"Extreme temperature ",38,112330,0,22,0,22,800000
+2010,Europe,Flood,64,354,561562,154,0,561716,16654068
+2010,Europe,Storm,28,134,1000000,168,0,1000168,13891000
+2010,Europe,"Volcanic activity",2,0,0,0,0,0,0
+2010,Europe,Wildfire,4,122,10000,1992,2400,14392,3600000
+2010,Oceania,Earthquake,4,0,602250,6,0,602256,13000000
+2010,Oceania,Flood,12,74,404032,2,0,404034,14818000
+2010,Oceania,Storm,14,8,89390,38,1180,90608,5540854
+2011,Africa,Drought,24,0,52300388,0,0,52300388,0
+2011,Africa,Epidemic,32,5750,222692,0,0,222692,0
+2011,Africa,Flood,88,1344,2798250,1506,93102,2892858,2013000
+2011,Africa,Storm,18,240,187466,860,58690,247016,20000
+2011,Americas,Drought,4,0,5000000,0,0,5000000,16000000
+2011,Americas,Earthquake,6,12,2840,216,3410,6466,0
+2011,Americas,Epidemic,10,90,1944432,440,0,1944872,0
+2011,Americas,"Extreme temperature ",12,90,374066,0,0,374066,1000000
+2011,Americas,Flood,78,3358,10342200,826,166000,10509026,23635826
+2011,Americas,Landslide,8,126,8650,0,0,8650,0
+2011,Americas,Storm,66,1680,1958388,7234,36814,2002436,88235400
+2011,Americas,"Volcanic activity",4,0,13000,0,0,13000,208000
+2011,Americas,Wildfire,14,20,800,10,28364,29174,6166000
+2011,Asia,Drought,4,0,3500000,0,0,3500000,284000
+2011,Asia,Earthquake,48,41496,2460490,22500,371494,2854484,424199700
+2011,Asia,Epidemic,12,508,145510,400,0,145910,0
+2011,Asia,"Extreme temperature ",16,708,7854000,44944,466000,8364944,562246
+2011,Asia,Flood,125,7554,257288362,2358,2159470,259450190,114083238
+2011,Asia,Landslide,25,491,1740,62,4000,5802,0
+2011,Asia,Storm,62,4264,74308194,16342,500000,74824536,8278896
+2011,Asia,"Volcanic activity",8,6,72598,10,12000,84608,0
+2011,Europe,Earthquake,2,20,0,600,30000,30600,400000
+2011,Europe,"Extreme temperature ",4,72,0,0,0,0,0
+2011,Europe,Flood,18,52,38938,0,0,38938,1782030
+2011,Europe,Landslide,2,6,0,2,0,2,0
+2011,Europe,Storm,10,20,1000,176,0,1176,204000
+2011,Oceania,Drought,2,0,0,0,0,0,0
+2011,Oceania,Earthquake,4,364,600000,3090,600,603690,36000000
+2011,Oceania,Flood,2,0,434,0,0,434,0
+2011,Oceania,Storm,12,2,78600,0,0,78600,5006000
+2011,Oceania,Wildfire,2,0,240,0,0,240,108000
+2012,Africa,Drought,14,0,25923800,0,0,25923800,0
+2012,Africa,Epidemic,36,3236,141858,298,0,142156,0
+2012,Africa,"Extreme temperature ",2,0,15000,0,0,15000,0
+2012,Africa,Flood,58,1704,18504760,2684,162980,18670424,1655500
+2012,Africa,Landslide,2,36,0,128,6736,6864,0
+2012,Africa,Storm,22,320,935190,670,7740,943600,202000
+2012,Americas,Drought,12,0,3566770,0,0,3566770,42920000
+2012,Americas,Earthquake,10,98,2788578,1146,10770,2800494,1350000
+2012,Americas,Epidemic,12,478,164430,0,0,164430,0
+2012,Americas,"Extreme temperature ",4,750,60226,0,0,60226,0
+2012,Americas,Flood,49,420,1789670,298,139282,1929250,1162200
+2012,Americas,Landslide,2,44,0,0,0,0,0
+2012,Americas,Storm,70,680,1378322,1188,221194,1600704,159365084
+2012,Americas,"Volcanic activity",2,0,20000,0,0,20000,0
+2012,Americas,Wildfire,8,30,7368,140,2076,9584,2000000
+2012,Asia,Drought,4,0,9600000,0,0,9600000,0
+2012,Asia,Earthquake,42,1276,2768100,81468,19234,2868802,4122628
+2012,Asia,Epidemic,2,60,6316,0,0,6316,0
+2012,Asia,"Extreme temperature ",18,806,260000,1536,0,261536,40400
+2012,Asia,Flood,124,4504,106904234,6964,113414,107024612,38507846
+2012,Asia,Landslide,20,808,244,324,0,568,0
+2012,Asia,"Mass movement (dry)",2,32,0,0,0,0,0
+2012,Asia,Storm,78,5168,36769424,11646,984150,37765220,11525274
+2012,Europe,Drought,8,0,11600,0,0,11600,8040000
+2012,Europe,Earthquake,6,48,22280,940,28000,51220,31600000
+2012,Europe,"Extreme temperature ",68,1567,875910,7658,0,883568,265202
+2012,Europe,Flood,30,414,187864,7890,12400,208154,8484800
+2012,Europe,Storm,2,2,600,20,0,620,11800
+2012,Europe,Wildfire,4,12,0,704,504,1208,0
+2012,Oceania,Flood,12,48,480762,0,0,480762,1408000
+2012,Oceania,Landslide,2,120,0,0,0,0,0
+2012,Oceania,Storm,8,34,45606,18,0,45624,301000
+2013,Africa,Drought,4,0,5062000,0,0,5062000,128000
+2013,Africa,Epidemic,32,634,440530,5018,0,445548,0
+2013,Africa,Flood,68,1462,4556458,684,4610,4561752,286048
+2013,Africa,Storm,12,432,403424,322,0,403746,68600
+2013,Africa,Wildfire,4,2,0,0,10032,10032,0
+2013,Americas,Drought,8,0,837040,0,0,837040,400000
+2013,Americas,Earthquake,6,2,22434,192,600,23226,8000
+2013,Americas,Epidemic,10,264,101172,0,0,101172,0
+2013,Americas,"Extreme temperature ",9,95,122434,0,5247,127681,2000000
+2013,Americas,Flood,58,892,3065445,1136,164730,3231311,19944204
+2013,Americas,Landslide,6,86,0,58,0,58,0
+2013,Americas,Storm,46,712,823378,2122,1200,826700,43650000
+2013,Americas,"Volcanic activity",4,0,128238,0,0,128238,0
+2013,Americas,Wildfire,10,44,222,34,4494,4750,1412800
+2013,Asia,Drought,2,0,10000000,0,0,10000000,0
+2013,Asia,Earthquake,44,2218,13930164,42916,28080,14001160,18041718
+2013,Asia,Epidemic,2,154,72000,0,0,72000,0
+2013,Asia,"Extreme temperature ",12,1968,29000,108000,0,137000,0
+2013,Asia,Flood,132,17154,52919314,11362,320652,53251328,51943776
+2013,Asia,Landslide,16,384,2000,4,0,2004,0
+2013,Asia,"Mass movement (dry)",2,92,0,4,0,4,16000
+2013,Asia,Storm,100,15978,96226882,70852,108472,96406206,46898128
+2013,Asia,"Volcanic activity",4,0,84054,0,0,84054,0
+2013,Europe,Earthquake,2,0,3600,0,0,3600,0
+2013,Europe,"Extreme temperature ",6,1578,20000,2650,0,22650,0
+2013,Europe,Flood,32,124,2820452,0,3990,2824442,37391104
+2013,Europe,Impact,1,0,300000,1491,0,301491,33000
+2013,Europe,Storm,46,72,44200,320,92,44612,10120000
+2013,Europe,Wildfire,2,18,0,0,0,0,0
+2013,Oceania,Drought,4,0,12768,0,0,12768,1646000
+2013,Oceania,Earthquake,4,20,34330,8,0,34338,100000
+2013,Oceania,Epidemic,2,6,3940,0,0,3940,0
+2013,Oceania,Flood,4,0,90454,0,0,90454,0
+2013,Oceania,Storm,6,12,15000,0,0,15000,4040000
+2013,Oceania,Wildfire,4,6,2880,0,0,2880,732000
+2014,Africa,"Animal accident",2,24,10,0,0,10,0
+2014,Africa,Drought,7,0,11920000,0,0,11920000,0
+2014,Africa,Earthquake,6,14,24000,844,0,24844,0
+2014,Africa,Epidemic,30,20184,139846,5220,0,145066,0
+2014,Africa,Flood,41,801,1309046,974,75260,1385280,210000
+2014,Africa,Landslide,2,22,0,0,0,0,0
+2014,Africa,Storm,11,111,253272,15,8672,261959,985000
+2014,Africa,"Volcanic activity",2,0,3480,0,0,3480,0
+2014,Americas,Drought,12,0,4508560,0,0,4508560,16358000
+2014,Americas,Earthquake,18,59,2238742,1496,19880,2260118,2103000
+2014,Americas,Epidemic,6,8,162034,0,0,162034,0
+2014,Americas,"Extreme temperature ",6,547,8141,0,0,8141,5500000
+2014,Americas,Flood,46,363,2235341,108,5400,2240849,2035800
+2014,Americas,Landslide,6,270,7300,0,155100,162400,330000
+2014,Americas,Storm,41,349,340568,806,60,341434,22475000
+2014,Americas,Wildfire,4,28,28858,1000,0,29858,268000
+2014,Asia,Drought,10,248,63000000,0,0,63000000,3748000
+2014,Asia,Earthquake,25,1478,4989088,8925,14198,5012211,12174000
+2014,Asia,Epidemic,2,4,0,394,0,394,0
+2014,Asia,"Extreme temperature ",7,455,2000000,0,0,2000000,18000
+2014,Asia,Flood,105,4798,59944234,2717,2235440,62182391,57208000
+2014,Asia,Landslide,21,2098,374090,454,3430,377974,38000
+2014,Asia,Storm,91,1755,47208447,7051,106510,47322008,47660533
+2014,Asia,"Volcanic activity",8,202,351266,282,0,351548,372000
+2014,Europe,Earthquake,4,6,154000,50,0,154050,1078000
+2014,Europe,"Extreme temperature ",11,66,174800,3000,0,177800,0
+2014,Europe,Flood,47,262,5332766,2001,2260,5337027,7439870
+2014,Europe,Landslide,1,1,600,0,0,600,0
+2014,Europe,Storm,26,57,36100,48,0,36148,1427000
+2014,Oceania,"Extreme temperature ",2,139,0,0,0,0,0
+2014,Oceania,Flood,7,94,132160,0,0,132160,48000
+2014,Oceania,Storm,7,26,125219,52,0,125271,1079000
+2014,Oceania,"Volcanic activity",2,0,2760,0,0,2760,0
+2014,Oceania,Wildfire,2,4,0,0,336,336,50000
+2015,Africa,Epidemic,3,14,0,811,0,811,0
+2015,Africa,Flood,6,413,763881,0,24595,788476,0
+2015,Africa,Storm,4,151,5000,149,174795,179944,0
+2015,Americas,Drought,2,0,545000,0,0,545000,0
+2015,Americas,Flood,3,27,124657,0,1738,126395,0
+2015,Americas,Storm,4,75,4500,0,0,4500,100000
+2015,Asia,Earthquake,1,0,8640,0,0,8640,14650
+2015,Asia,"Extreme temperature ",1,140,0,0,0,0,0
+2015,Asia,Flood,3,36,6805,0,0,6805,0
+2015,Asia,Storm,3,157,21687,0,0,21687,100680
+2015,Europe,Flood,3,5,212000,0,0,212000,12600
+2015,Oceania,Storm,6,11,170890,0,48,170938,311000
+2015,Oceania,Wildfire,1,0,450,29,0,479,0
